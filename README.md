@@ -237,7 +237,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-Ravindra Nath rinku0
+Ravindra Nath rinku
 
 ---
 
