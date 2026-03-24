@@ -1,0 +1,1001 @@
+order_id,date,customer_id,gender,age,product_category,payment_method,city,store_type,quantity,price_per_unit,total_amount,total_price,delivery_status,high_value_order,sales_rep_e_mail,revenue
+559,2023-01-01,CUST559,Female,40,Clothing,Credit Card,Miami,Department Store,4,300,1200,1200,Pending,Yes,miamirep@gmail.com,1200
+180,2023-01-01,CUST180,Male,41,Clothing,Debit Card,San Francisco,Pharmacy,3,300,900,900,Pending,Yes,sanfranciscorep@gmail.com,900
+522,2023-01-01,CUST522,Male,46,Beauty,Debit Card,San Francisco,Specialty Store,3,500,1500,1500,Completed,Yes,sanfranciscorep@gmail.com,1500
+979,2023-02-01,CUST979,Female,19,Beauty,Mobile Payment,Boston,Convenience Store,1,25,25,25,Completed,No,bostonrep@gmail.com,25
+163,2023-02-01,CUST163,Female,64,Clothing,Mobile Payment,Chicago,Pharmacy,3,50,150,150,Pending,No,chicagorep@gmail.com,150
+303,2023-02-01,CUST303,Male,19,Electronics,Cash,Chicago,Pharmacy,3,30,90,90,Completed,No,chicagorep@gmail.com,90
+421,2023-02-01,CUST421,Female,37,Clothing,Mobile Payment,Houston,Convenience Store,3,500,1500,1500,Pending,Yes,houstonrep@gmail.com,1500
+610,2023-03-01,CUST610,Female,26,Beauty,Credit Card,Miami,Convenience Store,2,300,600,600,Completed,Yes,miamirep@gmail.com,600
+683,2023-04-01,CUST683,Male,38,Beauty,Mobile Payment,Atlanta,Specialty Store,2,500,1000,1000,Completed,Yes,atlantarep@gmail.com,1000
+231,2023-04-01,CUST231,Female,23,Clothing,Debit Card,Dallas,Specialty Store,3,50,150,150,Pending,No,dallasrep@gmail.com,150
+32,2023-04-01,CUST032,Male,30,Beauty,Debit Card,Houston,Department Store,3,30,90,90,Completed,No,houstonrep@gmail.com,90
+367,2023-05-01,CUST367,Female,57,Electronics,Mobile Payment,Houston,Pharmacy,1,50,50,50,Completed,No,houstonrep@gmail.com,50
+391,2023-05-01,CUST391,Male,19,Beauty,Debit Card,New York,Convenience Store,2,25,50,50,Completed,No,newyorkrep@gmail.com,50
+432,2023-05-01,CUST432,Female,60,Electronics,Cash,New York,Convenience Store,2,500,1000,1000,Completed,Yes,newyorkrep@gmail.com,1000
+150,2023-06-01,CUST150,Female,58,Electronics,Debit Card,Houston,Warehouse Club,4,30,120,120,Completed,No,houstonrep@gmail.com,120
+845,2023-06-01,CUST845,Male,54,Clothing,Mobile Payment,New York,Supermarket,1,500,500,500,Pending,No,newyorkrep@gmail.com,500
+797,2023-07-01,CUST797,Male,40,Clothing,Credit Card,Los Angeles,Warehouse Club,3,25,75,75,Pending,No,losangelesrep@gmail.com,75
+921,2023-07-01,CUST921,Male,51,Electronics,Credit Card,Seattle,Pharmacy,3,25,75,75,Completed,No,seattlerep@gmail.com,75
+291,2023-08-01,CUST291,Male,60,Clothing,Mobile Payment,Atlanta,Pharmacy,2,300,600,600,Pending,Yes,atlantarep@gmail.com,600
+907,2023-08-01,CUST907,Female,45,Electronics,Mobile Payment,Seattle,Specialty Store,1,25,25,25,Completed,No,seattlerep@gmail.com,25
+860,2023-09-01,CUST860,Male,63,Clothing,Mobile Payment,Miami,Pharmacy,4,50,200,200,Pending,No,miamirep@gmail.com,200
+734,2023-10-01,CUST734,Female,27,Clothing,Debit Card,Atlanta,Warehouse Club,1,30,30,30,Pending,No,atlantarep@gmail.com,30
+184,2023-10-01,CUST184,Male,31,Electronics,Debit Card,San Francisco,Department Store,4,50,200,200,Completed,No,sanfranciscorep@gmail.com,200
+225,2023-11-01,CUST225,Female,57,Beauty,Credit Card,Atlanta,Supermarket,4,25,100,100,Completed,No,atlantarep@gmail.com,100
+679,2023-11-01,CUST679,Female,18,Beauty,Cash,Boston,Convenience Store,3,30,90,90,Completed,No,bostonrep@gmail.com,90
+746,2023-11-01,CUST746,Female,33,Clothing,Mobile Payment,Houston,Convenience Store,3,30,90,90,Pending,No,houstonrep@gmail.com,90
+484,,CUST484,Female,19,Clothing,Debit Card,Dallas,Pharmacy,4,300,1200,1200,Pending,Yes,dallasrep@gmail.com,1200
+3,,CUST003,Male,50,Electronics,Credit Card,Houston,Department Store,1,30,30,30,Completed,No,houstonrep@gmail.com,30
+464,,CUST464,Male,38,Electronics,Debit Card,Los Angeles,Convenience Store,2,300,600,600,Completed,Yes,losangelesrep@gmail.com,600
+591,,CUST591,Male,53,Electronics,Debit Card,Seattle,Department Store,4,25,100,100,Completed,No,seattlerep@gmail.com,100
+21,,CUST021,Female,50,Beauty,Cash,Houston,Pharmacy,1,500,500,500,Completed,No,houstonrep@gmail.com,500
+713,,CUST713,Male,34,Beauty,Cash,Houston,Specialty Store,3,25,75,75,Completed,No,houstonrep@gmail.com,75
+708,,CUST708,Female,43,Beauty,Credit Card,Miami,Specialty Store,3,300,900,900,Completed,Yes,miamirep@gmail.com,900
+768,,CUST768,Female,24,Beauty,Credit Card,San Francisco,Specialty Store,3,25,75,75,Completed,No,sanfranciscorep@gmail.com,75
+499,,CUST499,Male,46,Beauty,Cash,Dallas,Specialty Store,2,30,60,60,Completed,No,dallasrep@gmail.com,60
+697,,CUST697,Male,53,Clothing,Credit Card,Miami,Department Store,1,500,500,500,Pending,No,miamirep@gmail.com,500
+831,,CUST831,Male,27,Electronics,Mobile Payment,Seattle,Specialty Store,4,25,100,100,Completed,No,seattlerep@gmail.com,100
+743,,CUST743,Female,34,Beauty,Debit Card,Dallas,Supermarket,4,500,2000,2000,Completed,Yes,dallasrep@gmail.com,2000
+15,,CUST015,Female,42,Electronics,Credit Card,San Francisco,Warehouse Club,10,500,5000,5000,Completed,Yes,sanfranciscorep@gmail.com,5000
+986,,CUST986,Female,49,Clothing,Cash,Dallas,Specialty Store,2,500,1000,1000,Pending,Yes,dallasrep@gmail.com,1000
+103,,CUST103,Female,59,Clothing,Credit Card,Los Angeles,Department Store,1,25,25,25,Pending,No,losangelesrep@gmail.com,25
+14,,CUST014,Male,64,Clothing,Mobile Payment,Seattle,Warehouse Club,10,30,300,300,Pending,No,seattlerep@gmail.com,300
+238,,CUST238,Female,39,Beauty,Mobile Payment,Seattle,Supermarket,1,500,500,500,Completed,No,seattlerep@gmail.com,500
+438,,CUST438,Female,42,Clothing,Cash,Chicago,Pharmacy,1,30,30,30,Pending,No,chicagorep@gmail.com,30
+475,,CUST475,Male,26,Clothing,Debit Card,Miami,Convenience Store,3,25,75,75,Pending,No,miamirep@gmail.com,75
+505,,CUST505,Male,24,Beauty,Mobile Payment,Miami,Supermarket,1,50,50,50,Completed,No,miamirep@gmail.com,50
+448,,CUST448,Female,54,Beauty,Debit Card,Houston,Warehouse Club,2,30,60,60,Completed,No,houstonrep@gmail.com,60
+344,,CUST344,Female,42,Beauty,Cash,San Francisco,Department Store,1,30,30,30,Completed,No,sanfranciscorep@gmail.com,30
+742,,CUST742,Female,38,Electronics,Credit Card,San Francisco,Pharmacy,4,500,2000,2000,Completed,Yes,sanfranciscorep@gmail.com,2000
+445,,CUST445,Female,53,Electronics,Credit Card,Boston,Supermarket,1,300,300,300,Completed,No,bostonrep@gmail.com,300
+787,,CUST787,Male,41,Electronics,Cash,Chicago,Supermarket,1,25,25,25,Completed,No,chicagorep@gmail.com,25
+420,,CUST420,Female,22,Clothing,Credit Card,Houston,Specialty Store,4,500,2000,2000,Pending,Yes,houstonrep@gmail.com,2000
+519,,CUST519,Female,36,Electronics,Debit Card,New York,Pharmacy,4,30,120,120,Completed,No,newyorkrep@gmail.com,120
+49,,CUST049,Female,54,Electronics,Credit Card,Seattle,Department Store,2,500,1000,1000,Completed,Yes,seattlerep@gmail.com,1000
+592,,CUST592,Female,46,Beauty,Debit Card,Dallas,Department Store,4,500,2000,2000,Completed,Yes,dallasrep@gmail.com,2000
+64,,CUST064,Male,49,Clothing,Mobile Payment,Houston,Department Store,4,25,100,100,Pending,No,houstonrep@gmail.com,100
+912,,CUST912,Male,51,Beauty,Debit Card,Houston,Pharmacy,3,50,150,150,Completed,No,houstonrep@gmail.com,150
+134,,CUST134,Male,49,Electronics,Debit Card,Boston,Department Store,1,50,50,50,Completed,No,bostonrep@gmail.com,50
+288,,CUST288,Male,28,Clothing,Mobile Payment,Boston,Department Store,4,30,120,120,Pending,No,bostonrep@gmail.com,120
+720,,CUST720,Female,56,Beauty,Cash,Chicago,Convenience Store,3,500,1500,1500,Completed,Yes,chicagorep@gmail.com,1500
+323,,CUST323,Female,29,Beauty,Credit Card,San Francisco,Pharmacy,3,300,900,900,Completed,Yes,sanfranciscorep@gmail.com,900
+618,,CUST618,Female,27,Beauty,Debit Card,San Francisco,Supermarket,1,50,50,50,Completed,No,sanfranciscorep@gmail.com,50
+736,,CUST736,Male,29,Clothing,Debit Card,Houston,Convenience Store,4,25,100,100,Pending,No,houstonrep@gmail.com,100
+929,,CUST929,Female,23,Beauty,Mobile Payment,Miami,Specialty Store,3,25,75,75,Completed,No,miamirep@gmail.com,75
+415,,CUST415,Male,53,Clothing,Credit Card,Seattle,Department Store,2,30,60,60,Pending,No,seattlerep@gmail.com,60
+913,,CUST913,Male,29,Electronics,Credit Card,Atlanta,Convenience Store,3,30,90,90,Completed,No,atlantarep@gmail.com,90
+940,,CUST940,Female,20,Electronics,Cash,Los Angeles,Specialty Store,1,30,30,30,Completed,No,losangelesrep@gmail.com,30
+264,,CUST264,Male,47,Clothing,Credit Card,New York,Department Store,3,300,900,900,Pending,Yes,newyorkrep@gmail.com,900
+101,,CUST101,Male,32,Clothing,Mobile Payment,Houston,Warehouse Club,2,300,600,600,Pending,Yes,houstonrep@gmail.com,600
+329,,CUST329,Female,46,Electronics,Debit Card,Chicago,Department Store,4,25,100,100,Completed,No,chicagorep@gmail.com,100
+322,,CUST322,Male,51,Electronics,Cash,Houston,Convenience Store,1,500,500,500,Completed,No,houstonrep@gmail.com,500
+189,,CUST189,Male,63,Beauty,Mobile Payment,Los Angeles,Department Store,1,50,50,50,Completed,No,losangelesrep@gmail.com,50
+317,,CUST317,Male,22,Electronics,Credit Card,Seattle,Supermarket,3,30,90,90,Completed,No,seattlerep@gmail.com,90
+300,,CUST300,Female,19,Electronics,Credit Card,Atlanta,Pharmacy,4,50,200,200,Completed,No,atlantarep@gmail.com,200
+235,,CUST235,Female,23,Electronics,Credit Card,Houston,Convenience Store,2,500,1000,1000,Completed,Yes,houstonrep@gmail.com,1000
+964,,CUST964,Male,24,Clothing,Credit Card,San Francisco,Department Store,3,300,900,900,Pending,Yes,sanfranciscorep@gmail.com,900
+269,2023-01-02,CUST269,Male,25,Clothing,Mobile Payment,Atlanta,Supermarket,4,500,2000,2000,Pending,Yes,atlantarep@gmail.com,2000
+320,2023-01-02,CUST320,Female,28,Electronics,Debit Card,Boston,Convenience Store,4,300,1200,1200,Completed,Yes,bostonrep@gmail.com,1200
+673,2023-01-02,CUST673,Female,43,Clothing,Mobile Payment,San Francisco,Warehouse Club,3,500,1500,1500,Pending,Yes,sanfranciscorep@gmail.com,1500
+142,2023-02-02,CUST142,Male,35,Electronics,Credit Card,Miami,Warehouse Club,4,300,1200,1200,Completed,Yes,miamirep@gmail.com,1200
+666,2023-02-02,CUST666,Male,51,Electronics,Mobile Payment,Miami,Specialty Store,3,50,150,150,Completed,No,miamirep@gmail.com,150
+223,2023-02-02,CUST223,Female,64,Clothing,Cash,San Francisco,Specialty Store,1,25,25,25,Pending,No,sanfranciscorep@gmail.com,25
+107,2023-03-02,CUST107,Female,21,Clothing,Mobile Payment,Dallas,Pharmacy,8,300,2400,2400,Pending,Yes,dallasrep@gmail.com,2400
+933,2023-03-02,CUST933,Male,22,Beauty,Cash,Los Angeles,Pharmacy,1,30,30,30,Completed,No,losangelesrep@gmail.com,30
+237,2023-04-02,CUST237,Female,50,Beauty,Mobile Payment,Miami,Pharmacy,2,500,1000,1000,Completed,Yes,miamirep@gmail.com,1000
+335,2023-04-02,CUST335,Female,47,Beauty,Mobile Payment,Seattle,Specialty Store,4,30,120,120,Completed,No,seattlerep@gmail.com,120
+379,2023-05-02,CUST379,Female,47,Clothing,Credit Card,Atlanta,Convenience Store,1,25,25,25,Pending,No,atlantarep@gmail.com,25
+793,2023-05-02,CUST793,Male,54,Beauty,Credit Card,Boston,Warehouse Club,1,30,30,30,Completed,No,bostonrep@gmail.com,30
+63,2023-05-02,CUST063,Male,57,Electronics,Cash,Chicago,Specialty Store,2,25,50,50,Completed,No,chicagorep@gmail.com,50
+333,2023-05-02,CUST333,Female,54,Electronics,Mobile Payment,Dallas,Pharmacy,4,300,1200,1200,Completed,Yes,dallasrep@gmail.com,1200
+530,2023-05-02,CUST530,Female,18,Electronics,Debit Card,Dallas,Pharmacy,4,30,120,120,Completed,No,dallasrep@gmail.com,120
+195,2023-05-02,CUST195,Male,52,Clothing,Cash,Houston,Pharmacy,1,30,30,30,Pending,No,houstonrep@gmail.com,30
+740,2023-05-02,CUST740,Female,25,Beauty,Debit Card,Miami,Department Store,4,50,200,200,Completed,No,miamirep@gmail.com,200
+490,2023-05-02,CUST490,Male,34,Clothing,Mobile Payment,New York,Supermarket,3,50,150,150,Pending,No,newyorkrep@gmail.com,150
+85,2023-06-02,CUST085,Male,31,Clothing,Mobile Payment,Chicago,Supermarket,3,50,150,150,Pending,No,chicagorep@gmail.com,150
+240,2023-06-02,CUST240,Female,23,Beauty,Mobile Payment,Chicago,Warehouse Club,1,300,300,300,Completed,No,chicagorep@gmail.com,300
+993,2023-06-02,CUST993,Female,48,Electronics,Credit Card,Miami,Specialty Store,3,50,150,150,Completed,No,miamirep@gmail.com,150
+232,2023-06-02,CUST232,Female,43,Beauty,Cash,San Francisco,Warehouse Club,1,25,25,25,Completed,No,sanfranciscorep@gmail.com,25
+366,2023-07-02,CUST366,Male,57,Clothing,Mobile Payment,Boston,Supermarket,2,50,100,100,Pending,No,bostonrep@gmail.com,100
+372,2023-07-02,CUST372,Female,24,Beauty,Debit Card,Chicago,Department Store,3,500,1500,1500,Completed,Yes,chicagorep@gmail.com,1500
+936,2023-07-02,CUST936,Male,57,Beauty,Credit Card,Chicago,Department Store,4,50,200,200,Completed,No,chicagorep@gmail.com,200
+596,2023-07-02,CUST596,Female,64,Electronics,Credit Card,New York,Warehouse Club,1,300,300,300,Completed,No,newyorkrep@gmail.com,300
+434,2023-08-02,CUST434,Female,43,Electronics,Cash,Atlanta,Supermarket,2,25,50,50,Completed,No,atlantarep@gmail.com,50
+775,2023-08-02,CUST775,Female,46,Electronics,Credit Card,Houston,Convenience Store,4,25,100,100,Completed,No,houstonrep@gmail.com,100
+977,2023-08-02,CUST977,Female,35,Electronics,Cash,San Francisco,Department Store,3,25,75,75,Completed,No,sanfranciscorep@gmail.com,75
+284,2023-08-02,CUST284,Male,43,Clothing,Credit Card,Seattle,Pharmacy,4,50,200,200,Pending,No,seattlerep@gmail.com,200
+649,2023-09-02,CUST649,Female,58,Clothing,Mobile Payment,Dallas,Convenience Store,2,300,600,600,Pending,Yes,dallasrep@gmail.com,600
+54,2023-10-02,CUST054,Female,38,Electronics,Cash,Houston,Warehouse Club,3,500,1500,1500,Completed,Yes,houstonrep@gmail.com,1500
+68,2023-10-02,CUST068,Male,25,Electronics,Mobile Payment,Miami,Specialty Store,1,300,300,300,Completed,No,miamirep@gmail.com,300
+192,2023-10-02,CUST192,Male,62,Beauty,Debit Card,San Francisco,Specialty Store,2,50,100,100,Completed,No,sanfranciscorep@gmail.com,100
+657,2023-11-02,CUST657,Male,40,Clothing,Credit Card,Atlanta,Department Store,1,25,25,25,Pending,No,atlantarep@gmail.com,25
+972,2023-11-02,CUST972,Male,49,Beauty,Credit Card,Atlanta,Convenience Store,4,25,100,100,Completed,No,atlantarep@gmail.com,100
+346,2023-11-02,CUST346,Male,59,Clothing,Mobile Payment,Houston,Department Store,2,500,1000,1000,Pending,Yes,houstonrep@gmail.com,1000
+331,2023-11-02,CUST331,Male,28,Electronics,Cash,New York,Convenience Store,3,30,90,90,Completed,No,newyorkrep@gmail.com,90
+732,2023-11-02,CUST732,Male,61,Electronics,Debit Card,San Francisco,Department Store,2,500,1000,1000,Completed,Yes,sanfranciscorep@gmail.com,1000
+714,2023-12-02,CUST714,Female,18,Clothing,Cash,Chicago,Convenience Store,1,500,500,500,Pending,No,chicagorep@gmail.com,500
+577,,CUST577,Male,21,Beauty,Credit Card,Boston,Convenience Store,4,500,2000,2000,Completed,Yes,bostonrep@gmail.com,2000
+193,,CUST193,Male,35,Beauty,Debit Card,Houston,Warehouse Club,3,500,1500,1500,Completed,Yes,houstonrep@gmail.com,1500
+848,,CUST848,Female,63,Clothing,Cash,Houston,Specialty Store,3,25,75,75,Pending,No,houstonrep@gmail.com,75
+945,,CUST945,Male,30,Beauty,Debit Card,Los Angeles,Specialty Store,1,25,25,25,Completed,No,losangelesrep@gmail.com,25
+821,,CUST821,Male,49,Electronics,Cash,Atlanta,Warehouse Club,1,300,300,300,Completed,No,atlantarep@gmail.com,300
+11,,CUST011,Male,23,Clothing,Debit Card,Boston,Department Store,2,50,100,100,Pending,No,bostonrep@gmail.com,100
+133,,CUST133,Male,20,Electronics,Mobile Payment,Atlanta,Convenience Store,3,300,900,900,Completed,Yes,atlantarep@gmail.com,900
+416,,CUST416,Male,53,Electronics,Debit Card,Chicago,Supermarket,4,500,2000,2000,Completed,Yes,chicagorep@gmail.com,2000
+42,,CUST042,Male,22,Clothing,Debit Card,Miami,Specialty Store,3,300,900,900,Pending,Yes,miamirep@gmail.com,900
+16,,CUST016,Male,19,Clothing,Mobile Payment,San Francisco,Convenience Store,3,500,1500,1500,Pending,Yes,sanfranciscorep@gmail.com,1500
+292,,CUST292,Male,20,Beauty,Mobile Payment,San Francisco,Supermarket,4,300,1200,1200,Completed,Yes,sanfranciscorep@gmail.com,1200
+861,,CUST861,Female,41,Clothing,Debit Card,San Francisco,Department Store,3,30,90,90,Pending,No,sanfranciscorep@gmail.com,90
+584,,CUST584,Female,27,Beauty,Cash,Seattle,Supermarket,4,50,200,200,Completed,No,seattlerep@gmail.com,200
+256,,CUST256,Male,23,Clothing,Mobile Payment,Seattle,Convenience Store,2,500,1000,1000,Pending,Yes,seattlerep@gmail.com,1000
+44,,CUST044,Female,22,Clothing,Cash,Atlanta,Specialty Store,1,25,25,25,Pending,No,atlantarep@gmail.com,25
+257,,CUST257,Male,19,Beauty,Debit Card,Boston,Convenience Store,4,500,2000,2000,Completed,Yes,bostonrep@gmail.com,2000
+966,,CUST966,Male,60,Electronics,Mobile Payment,Dallas,Warehouse Club,2,500,1000,1000,Completed,Yes,dallasrep@gmail.com,1000
+268,,CUST268,Female,28,Electronics,Debit Card,New York,Department Store,1,30,30,30,Completed,No,newyorkrep@gmail.com,30
+287,,CUST287,Male,54,Clothing,Mobile Payment,New York,Specialty Store,4,25,100,100,Pending,No,newyorkrep@gmail.com,100
+371,,CUST371,Female,20,Beauty,Cash,Chicago,Convenience Store,1,25,25,25,Completed,No,chicagorep@gmail.com,25
+900,,CUST900,Male,21,Clothing,Cash,Los Angeles,Supermarket,2,30,60,60,Pending,No,losangelesrep@gmail.com,60
+70,,CUST070,Female,43,Clothing,Cash,Seattle,Warehouse Club,1,300,300,300,Pending,No,seattlerep@gmail.com,300
+41,,CUST041,Male,34,Clothing,Credit Card,Atlanta,Department Store,2,25,50,50,Pending,No,atlantarep@gmail.com,50
+8,,CUST008,Male,30,Electronics,Debit Card,Chicago,Specialty Store,10,25,250,250,Completed,No,chicagorep@gmail.com,250
+454,,CUST454,Female,46,Beauty,Cash,Los Angeles,Supermarket,1,25,25,25,Completed,No,losangelesrep@gmail.com,25
+780,,CUST780,Male,52,Electronics,Debit Card,Los Angeles,Specialty Store,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+920,,CUST920,Female,28,Beauty,Cash,San Francisco,Department Store,3,25,75,75,Completed,No,sanfranciscorep@gmail.com,75
+396,,CUST396,Female,55,Beauty,Mobile Payment,San Francisco,Pharmacy,1,30,30,30,Completed,No,sanfranciscorep@gmail.com,30
+400,,CUST400,Male,53,Clothing,Cash,Dallas,Pharmacy,4,50,200,200,Pending,No,dallasrep@gmail.com,200
+168,,CUST168,Male,53,Clothing,Cash,Los Angeles,Specialty Store,1,300,300,300,Pending,No,losangelesrep@gmail.com,300
+800,,CUST800,Male,32,Clothing,Mobile Payment,Los Angeles,Convenience Store,4,300,1200,1200,Pending,Yes,losangelesrep@gmail.com,1200
+611,,CUST611,Male,51,Beauty,Debit Card,New York,Supermarket,3,500,1500,1500,Completed,Yes,newyorkrep@gmail.com,1500
+506,,CUST506,Male,34,Beauty,Cash,Boston,Supermarket,3,500,1500,1500,Completed,Yes,bostonrep@gmail.com,1500
+473,,CUST473,Male,64,Beauty,Credit Card,Dallas,Pharmacy,1,50,50,50,Completed,No,dallasrep@gmail.com,50
+766,,CUST766,Male,38,Electronics,Cash,Dallas,Department Store,3,300,900,900,Completed,Yes,dallasrep@gmail.com,900
+272,,CUST272,Female,61,Electronics,Credit Card,Los Angeles,Convenience Store,2,50,100,100,Completed,No,losangelesrep@gmail.com,100
+135,,CUST135,Male,20,Clothing,Mobile Payment,Atlanta,Department Store,2,25,50,50,Pending,No,atlantarep@gmail.com,50
+185,,CUST185,Male,24,Clothing,Mobile Payment,Atlanta,Warehouse Club,1,25,25,25,Pending,No,atlantarep@gmail.com,25
+433,,CUST433,Male,29,Beauty,Mobile Payment,Los Angeles,Department Store,4,50,200,200,Completed,No,losangelesrep@gmail.com,200
+2,,CUST002,Female,26,Clothing,Cash,San Francisco,Specialty Store,2,500,1000,1000,Pending,Yes,sanfranciscorep@gmail.com,1000
+158,,CUST158,Female,44,Electronics,Mobile Payment,San Francisco,Warehouse Club,2,300,600,600,Completed,Yes,sanfranciscorep@gmail.com,600
+753,,CUST753,Female,32,Clothing,Debit Card,Boston,Specialty Store,1,30,30,30,Pending,No,bostonrep@gmail.com,30
+932,,CUST932,Female,45,Beauty,Mobile Payment,Houston,Supermarket,4,25,100,100,Completed,No,houstonrep@gmail.com,100
+763,,CUST763,Male,34,Clothing,Mobile Payment,New York,Specialty Store,2,25,50,50,Pending,No,newyorkrep@gmail.com,50
+152,,CUST152,Male,43,Electronics,Debit Card,San Francisco,Department Store,4,500,2000,2000,Completed,Yes,sanfranciscorep@gmail.com,2000
+514,2023-01-03,CUST514,Female,18,Electronics,Credit Card,Chicago,Warehouse Club,1,300,300,300,Completed,No,chicagorep@gmail.com,300
+399,2023-01-03,CUST399,Female,64,Beauty,Debit Card,Dallas,Department Store,2,30,60,60,Completed,No,dallasrep@gmail.com,60
+500,2023-01-03,CUST500,Female,60,Beauty,Cash,Seattle,Warehouse Club,4,25,100,100,Completed,No,seattlerep@gmail.com,100
+947,2023-02-03,CUST947,Male,50,Beauty,Credit Card,Miami,Specialty Store,1,300,300,300,Completed,No,miamirep@gmail.com,300
+785,2023-03-03,CUST785,Female,31,Beauty,Credit Card,Atlanta,Pharmacy,4,50,200,200,Completed,No,atlantarep@gmail.com,200
+339,2023-03-03,CUST339,Female,22,Electronics,Debit Card,Chicago,Warehouse Club,2,25,50,50,Completed,No,chicagorep@gmail.com,50
+885,2023-03-03,CUST885,Female,52,Clothing,Mobile Payment,Los Angeles,Specialty Store,4,30,120,120,Pending,No,losangelesrep@gmail.com,120
+220,2023-03-03,CUST220,Male,64,Beauty,Mobile Payment,New York,Department Store,1,500,500,500,Completed,No,newyorkrep@gmail.com,500
+888,2023-03-03,CUST888,Female,52,Electronics,Credit Card,New York,Supermarket,4,25,100,100,Completed,No,newyorkrep@gmail.com,100
+621,2023-04-03,CUST621,Female,40,Beauty,Cash,Boston,Pharmacy,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+536,2023-05-03,CUST536,Female,55,Beauty,Mobile Payment,Los Angeles,Department Store,4,30,120,120,Completed,No,losangelesrep@gmail.com,120
+52,2023-05-03,CUST052,Female,36,Beauty,Mobile Payment,Miami,Pharmacy,1,300,300,300,Completed,No,miamirep@gmail.com,300
+197,2023-06-03,CUST197,Female,42,Clothing,Cash,Dallas,Department Store,4,50,200,200,Pending,No,dallasrep@gmail.com,200
+910,2023-06-03,CUST910,Female,20,Beauty,Cash,Houston,Pharmacy,9,50,450,450,Completed,No,houstonrep@gmail.com,450
+917,2023-06-03,CUST917,Female,57,Electronics,Debit Card,Houston,Supermarket,4,50,200,200,Completed,No,houstonrep@gmail.com,200
+750,2023-06-03,CUST750,Female,35,Clothing,Debit Card,Seattle,Department Store,3,25,75,75,Pending,No,seattlerep@gmail.com,75
+705,2023-07-03,CUST705,Male,60,Electronics,Cash,Atlanta,Warehouse Club,2,25,50,50,Completed,No,atlantarep@gmail.com,50
+444,2023-07-03,CUST444,Female,61,Clothing,Cash,Chicago,Supermarket,3,30,90,90,Pending,No,chicagorep@gmail.com,90
+547,2023-07-03,CUST547,Male,63,Clothing,Credit Card,Chicago,Pharmacy,4,500,2000,2000,Pending,Yes,chicagorep@gmail.com,2000
+198,2023-07-03,CUST198,Female,54,Beauty,Cash,Miami,Pharmacy,3,300,900,900,Completed,Yes,miamirep@gmail.com,900
+423,2023-08-03,CUST423,Female,27,Clothing,Cash,Dallas,Department Store,1,25,25,25,Pending,No,dallasrep@gmail.com,25
+360,2023-09-03,CUST360,Male,42,Clothing,Mobile Payment,Boston,Department Store,4,25,100,100,Pending,No,bostonrep@gmail.com,100
+248,2023-09-03,CUST248,Male,26,Clothing,Debit Card,Houston,Specialty Store,3,300,900,900,Pending,Yes,houstonrep@gmail.com,900
+377,2023-09-03,CUST377,Female,46,Clothing,Mobile Payment,San Francisco,Specialty Store,5,50,250,250,Pending,No,sanfranciscorep@gmail.com,250
+397,2023-10-03,CUST397,Female,30,Beauty,Debit Card,Seattle,Supermarket,1,25,25,25,Completed,No,seattlerep@gmail.com,25
+623,2023-10-03,CUST623,Male,34,Clothing,Cash,Seattle,Pharmacy,3,50,150,150,Pending,No,seattlerep@gmail.com,150
+717,2023-11-03,CUST717,Male,57,Clothing,Debit Card,Boston,Specialty Store,1,500,500,500,Pending,No,bostonrep@gmail.com,500
+658,2023-12-03,CUST658,Male,59,Clothing,Mobile Payment,Dallas,Warehouse Club,1,25,25,25,Pending,No,dallasrep@gmail.com,25
+130,2023-12-03,CUST130,Female,57,Clothing,Mobile Payment,Houston,Supermarket,1,500,500,500,Pending,No,houstonrep@gmail.com,500
+7,,CUST007,Male,46,Clothing,Cash,Boston,Specialty Store,2,25,50,50,Pending,No,bostonrep@gmail.com,50
+278,,CUST278,Female,37,Clothing,Debit Card,Miami,Supermarket,4,25,100,100,Pending,No,miamirep@gmail.com,100
+119,,CUST119,Female,60,Clothing,Credit Card,Seattle,Specialty Store,3,50,150,150,Pending,No,seattlerep@gmail.com,150
+117,,CUST117,Male,19,Electronics,Mobile Payment,San Francisco,Pharmacy,2,500,1000,1000,Completed,Yes,sanfranciscorep@gmail.com,1000
+442,,CUST442,Female,60,Clothing,Mobile Payment,Atlanta,Convenience Store,4,25,100,100,Pending,No,atlantarep@gmail.com,100
+590,,CUST590,Male,36,Clothing,Credit Card,Houston,Convenience Store,3,300,900,900,Pending,Yes,houstonrep@gmail.com,900
+607,,CUST607,Male,54,Clothing,Mobile Payment,Houston,Department Store,3,25,75,75,Pending,No,houstonrep@gmail.com,75
+942,,CUST942,Male,51,Clothing,Mobile Payment,Los Angeles,Warehouse Club,3,500,1500,1500,Pending,Yes,losangelesrep@gmail.com,1500
+436,,CUST436,Female,57,Clothing,Mobile Payment,Miami,Department Store,4,30,120,120,Pending,No,miamirep@gmail.com,120
+941,,CUST941,Female,57,Clothing,Debit Card,Los Angeles,Convenience Store,2,25,50,50,Pending,No,losangelesrep@gmail.com,50
+659,,CUST659,Female,39,Electronics,Cash,New York,Supermarket,1,30,30,30,Completed,No,newyorkrep@gmail.com,30
+806,,CUST806,Female,35,Beauty,Debit Card,Atlanta,Supermarket,3,300,900,900,Completed,Yes,atlantarep@gmail.com,900
+748,,CUST748,Male,25,Clothing,Debit Card,Boston,Department Store,3,50,150,150,Pending,No,bostonrep@gmail.com,150
+663,,CUST663,Male,23,Clothing,Mobile Payment,Miami,Pharmacy,4,300,1200,1200,Pending,Yes,miamirep@gmail.com,1200
+136,,CUST136,Male,44,Electronics,Mobile Payment,Seattle,Specialty Store,2,300,600,600,Completed,Yes,seattlerep@gmail.com,600
+175,,CUST175,Female,31,Electronics,Cash,Seattle,Convenience Store,4,25,100,100,Completed,No,seattlerep@gmail.com,100
+313,,CUST313,Female,55,Beauty,Debit Card,Atlanta,Warehouse Club,3,500,1500,1500,Completed,Yes,atlantarep@gmail.com,1500
+38,,CUST038,Male,38,Beauty,Mobile Payment,Los Angeles,Warehouse Club,10,50,500,500,Completed,No,losangelesrep@gmail.com,500
+402,,CUST402,Female,41,Clothing,Credit Card,San Francisco,Supermarket,2,300,600,600,Pending,Yes,sanfranciscorep@gmail.com,600
+459,,CUST459,Male,28,Clothing,Mobile Payment,San Francisco,Supermarket,4,300,1200,1200,Pending,Yes,sanfranciscorep@gmail.com,1200
+328,,CUST328,Male,39,Beauty,Mobile Payment,Atlanta,Pharmacy,2,50,100,100,Completed,No,atlantarep@gmail.com,100
+383,,CUST383,Female,46,Beauty,Debit Card,Boston,Supermarket,3,30,90,90,Completed,No,bostonrep@gmail.com,90
+978,,CUST978,Female,53,Clothing,Credit Card,Chicago,Specialty Store,3,50,150,150,Pending,No,chicagorep@gmail.com,150
+973,,CUST973,Male,60,Clothing,Debit Card,Houston,Specialty Store,1,50,50,50,Pending,No,houstonrep@gmail.com,50
+161,,CUST161,Male,64,Beauty,Mobile Payment,New York,Supermarket,2,500,1000,1000,Completed,Yes,newyorkrep@gmail.com,1000
+33,,CUST033,Female,50,Electronics,Debit Card,Chicago,Supermarket,2,50,100,100,Completed,No,chicagorep@gmail.com,100
+138,,CUST138,Male,49,Clothing,Mobile Payment,Chicago,Specialty Store,4,50,200,200,Pending,No,chicagorep@gmail.com,200
+471,,CUST471,Male,32,Clothing,Debit Card,Chicago,Warehouse Club,3,50,150,150,Pending,No,chicagorep@gmail.com,150
+636,,CUST636,Female,21,Beauty,Mobile Payment,Dallas,Specialty Store,3,500,1500,1500,Completed,Yes,dallasrep@gmail.com,1500
+426,,CUST426,Male,23,Electronics,Mobile Payment,Dallas,Pharmacy,3,50,150,150,Completed,No,dallasrep@gmail.com,150
+177,,CUST177,Male,45,Beauty,Debit Card,Seattle,Warehouse Club,2,50,100,100,Completed,No,seattlerep@gmail.com,100
+461,,CUST461,Female,18,Beauty,Mobile Payment,Boston,Supermarket,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+91,,CUST091,Female,55,Electronics,Debit Card,Los Angeles,Convenience Store,1,500,500,500,Completed,No,losangelesrep@gmail.com,500
+76,,CUST076,Female,22,Electronics,Debit Card,Seattle,Convenience Store,2,50,100,100,Completed,No,seattlerep@gmail.com,100
+764,,CUST764,Female,40,Clothing,Mobile Payment,Seattle,Supermarket,1,25,25,25,Pending,No,seattlerep@gmail.com,25
+202,,CUST202,Female,34,Clothing,Debit Card,Houston,Pharmacy,6,300,1800,1800,Pending,Yes,houstonrep@gmail.com,1800
+703,,CUST703,Male,34,Electronics,Mobile Payment,New York,Warehouse Club,2,50,100,100,Completed,No,newyorkrep@gmail.com,100
+301,,CUST301,Male,30,Clothing,Mobile Payment,San Francisco,Convenience Store,7,30,210,210,Pending,No,sanfranciscorep@gmail.com,210
+294,,CUST294,Female,23,Clothing,Credit Card,Chicago,Department Store,3,30,90,90,Pending,No,chicagorep@gmail.com,90
+760,,CUST760,Male,27,Beauty,Credit Card,Seattle,Warehouse Club,1,500,500,500,Completed,No,seattlerep@gmail.com,500
+575,,CUST575,Male,60,Clothing,Cash,New York,Specialty Store,2,50,100,100,Pending,No,newyorkrep@gmail.com,100
+88,,CUST088,Male,56,Clothing,Cash,Chicago,Specialty Store,1,500,500,500,Pending,No,chicagorep@gmail.com,500
+975,,CUST975,Female,56,Clothing,Mobile Payment,Miami,Pharmacy,4,50,200,200,Pending,No,miamirep@gmail.com,200
+553,,CUST553,Male,24,Clothing,Debit Card,Atlanta,Department Store,4,300,1200,1200,Pending,Yes,atlantarep@gmail.com,1200
+462,2023-01-04,CUST462,Male,63,Electronics,Credit Card,Los Angeles,Convenience Store,4,300,1200,1200,Completed,Yes,losangelesrep@gmail.com,1200
+614,2023-01-04,CUST614,Female,39,Beauty,Debit Card,Miami,Pharmacy,4,300,1200,1200,Completed,Yes,miamirep@gmail.com,1200
+808,2023-01-04,CUST808,Male,33,Beauty,Cash,Seattle,Pharmacy,4,500,2000,2000,Completed,Yes,seattlerep@gmail.com,2000
+905,2023-02-04,CUST905,Male,58,Beauty,Mobile Payment,Atlanta,Department Store,1,300,300,300,Completed,No,atlantarep@gmail.com,300
+465,2023-02-04,CUST465,Female,43,Electronics,Debit Card,Chicago,Convenience Store,3,50,150,150,Completed,No,chicagorep@gmail.com,150
+166,2023-02-04,CUST166,Male,34,Clothing,Mobile Payment,New York,Department Store,4,500,2000,2000,Pending,Yes,newyorkrep@gmail.com,2000
+502,2023-02-04,CUST502,Male,43,Electronics,Debit Card,New York,Department Store,3,50,150,150,Completed,No,newyorkrep@gmail.com,150
+834,2023-04-04,CUST834,Female,56,Beauty,Debit Card,Dallas,Department Store,2,30,60,60,Completed,No,dallasrep@gmail.com,60
+280,2023-04-04,CUST280,Female,37,Clothing,Credit Card,Los Angeles,Convenience Store,3,500,1500,1500,Pending,Yes,losangelesrep@gmail.com,1500
+719,2023-04-04,CUST719,Female,42,Clothing,Debit Card,Miami,Supermarket,2,30,60,60,Pending,No,miamirep@gmail.com,60
+928,2023-05-04,CUST928,Female,35,Clothing,Debit Card,Houston,Pharmacy,4,300,1200,1200,Pending,Yes,houstonrep@gmail.com,1200
+891,2023-05-04,CUST891,Male,41,Electronics,Credit Card,Los Angeles,Supermarket,9,300,2700,2700,Completed,Yes,losangelesrep@gmail.com,2700
+332,2023-06-04,CUST332,Male,58,Electronics,Mobile Payment,New York,Department Store,4,300,1200,1200,Completed,Yes,newyorkrep@gmail.com,1200
+847,2023-08-04,CUST847,Female,18,Electronics,Credit Card,Chicago,Department Store,4,300,1200,1200,Completed,Yes,chicagorep@gmail.com,1200
+255,2023-08-04,CUST255,Male,48,Clothing,Cash,Los Angeles,Department Store,1,30,30,30,Pending,No,losangelesrep@gmail.com,30
+314,2023-08-04,CUST314,Male,52,Clothing,Mobile Payment,San Francisco,Supermarket,5,30,150,150,Pending,No,sanfranciscorep@gmail.com,150
+517,2023-08-04,CUST517,Female,47,Clothing,Mobile Payment,San Francisco,Pharmacy,4,25,100,100,Pending,No,sanfranciscorep@gmail.com,100
+275,2023-08-04,CUST275,Male,43,Clothing,Credit Card,Seattle,Supermarket,2,500,1000,1000,Pending,Yes,seattlerep@gmail.com,1000
+886,2023-09-04,CUST886,Male,37,Electronics,Debit Card,Boston,Department Store,9,300,2700,2700,Completed,Yes,bostonrep@gmail.com,2700
+486,2023-09-04,CUST486,Female,35,Electronics,Cash,Dallas,Supermarket,1,25,25,25,Completed,No,dallasrep@gmail.com,25
+274,2023-09-04,CUST274,Female,23,Clothing,Mobile Payment,Los Angeles,Department Store,2,500,1000,1000,Pending,Yes,losangelesrep@gmail.com,1000
+892,2023-09-04,CUST892,Male,20,Electronics,Credit Card,San Francisco,Convenience Store,1,50,50,50,Completed,No,sanfranciscorep@gmail.com,50
+61,2023-09-04,CUST061,Male,21,Beauty,Credit Card,Seattle,Supermarket,4,50,200,200,Completed,No,seattlerep@gmail.com,200
+548,2023-09-04,CUST548,Female,51,Clothing,Credit Card,Seattle,Pharmacy,2,30,60,60,Pending,No,seattlerep@gmail.com,60
+901,2023-10-04,CUST901,Male,31,Electronics,Debit Card,Chicago,Department Store,1,30,30,30,Completed,No,chicagorep@gmail.com,30
+601,2023-10-04,CUST601,Male,19,Clothing,Cash,Dallas,Specialty Store,1,30,30,30,Pending,No,dallasrep@gmail.com,30
+527,2023-11-04,CUST527,Male,57,Clothing,Mobile Payment,Los Angeles,Pharmacy,2,25,50,50,Pending,No,losangelesrep@gmail.com,50
+1000,2023-12-04,CUST1000,Male,47,Electronics,Debit Card,Atlanta,Supermarket,4,30,120,120,Completed,No,atlantarep@gmail.com,120
+174,2023-12-04,CUST174,Female,39,Beauty,Mobile Payment,Dallas,Convenience Store,1,300,300,300,Completed,No,dallasrep@gmail.com,300
+774,2023-12-04,CUST774,Female,40,Clothing,Mobile Payment,Miami,Convenience Store,2,25,50,50,Pending,No,miamirep@gmail.com,50
+23,2023-12-04,CUST023,Female,35,Clothing,Mobile Payment,New York,Warehouse Club,10,30,300,300,Pending,No,newyorkrep@gmail.com,300
+589,2023-12-04,CUST589,Female,36,Beauty,Debit Card,Seattle,Supermarket,2,500,1000,1000,Completed,Yes,seattlerep@gmail.com,1000
+210,,CUST210,Male,37,Electronics,Cash,Boston,Supermarket,4,50,200,200,Completed,No,bostonrep@gmail.com,200
+745,,CUST745,Male,54,Beauty,Cash,Miami,Pharmacy,2,50,100,100,Completed,No,miamirep@gmail.com,100
+478,,CUST478,Female,58,Clothing,Cash,Seattle,Specialty Store,2,30,60,60,Pending,No,seattlerep@gmail.com,60
+354,,CUST354,Female,49,Beauty,Cash,Boston,Specialty Store,5,50,250,250,Completed,No,bostonrep@gmail.com,250
+408,,CUST408,Female,64,Beauty,Debit Card,Houston,Warehouse Club,1,500,500,500,Completed,No,houstonrep@gmail.com,500
+674,,CUST674,Female,38,Clothing,Cash,San Francisco,Pharmacy,1,300,300,300,Pending,No,sanfranciscorep@gmail.com,300
+967,,CUST967,Male,62,Beauty,Debit Card,Los Angeles,Convenience Store,1,25,25,25,Completed,No,losangelesrep@gmail.com,25
+79,,CUST079,Male,34,Beauty,Debit Card,Dallas,Supermarket,1,300,300,300,Completed,No,dallasrep@gmail.com,300
+406,,CUST406,Female,22,Beauty,Cash,Houston,Specialty Store,4,25,100,100,Completed,No,houstonrep@gmail.com,100
+450,,CUST450,Female,59,Beauty,Mobile Payment,Houston,Convenience Store,2,25,50,50,Completed,No,houstonrep@gmail.com,50
+562,,CUST562,Male,54,Electronics,Mobile Payment,New York,Pharmacy,2,25,50,50,Completed,No,newyorkrep@gmail.com,50
+836,,CUST836,Female,22,Clothing,Debit Card,Boston,Department Store,1,50,50,50,Pending,No,bostonrep@gmail.com,50
+724,,CUST724,Male,61,Clothing,Debit Card,Chicago,Warehouse Club,3,50,150,150,Pending,No,chicagorep@gmail.com,150
+111,,CUST111,Female,34,Electronics,Cash,Miami,Department Store,3,500,1500,1500,Completed,Yes,miamirep@gmail.com,1500
+207,,CUST207,Female,42,Beauty,Mobile Payment,San Francisco,Warehouse Club,2,25,50,50,Completed,No,sanfranciscorep@gmail.com,50
+108,,CUST108,Female,27,Beauty,Cash,Seattle,Pharmacy,3,25,75,75,Completed,No,seattlerep@gmail.com,75
+969,,CUST969,Female,40,Clothing,Credit Card,Seattle,Convenience Store,3,300,900,900,Pending,Yes,seattlerep@gmail.com,900
+572,,CUST572,Male,31,Clothing,Credit Card,Dallas,Supermarket,4,500,2000,2000,Pending,Yes,dallasrep@gmail.com,2000
+374,,CUST374,Female,59,Beauty,Debit Card,Houston,Convenience Store,3,25,75,75,Completed,No,houstonrep@gmail.com,75
+246,,CUST246,Female,48,Electronics,Credit Card,Los Angeles,Specialty Store,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+665,,CUST665,Male,57,Clothing,Mobile Payment,Los Angeles,Convenience Store,1,50,50,50,Pending,No,losangelesrep@gmail.com,50
+298,,CUST298,Male,27,Beauty,Mobile Payment,San Francisco,Specialty Store,6,300,1800,1800,Completed,Yes,sanfranciscorep@gmail.com,1800
+39,,CUST039,Male,23,Clothing,Credit Card,New York,Convenience Store,4,30,120,120,Pending,No,newyorkrep@gmail.com,120
+893,,CUST893,Male,49,Electronics,Debit Card,New York,Supermarket,1,50,50,50,Completed,No,newyorkrep@gmail.com,50
+17,,CUST017,Female,27,Clothing,Mobile Payment,Miami,Specialty Store,10,25,250,250,Pending,No,miamirep@gmail.com,250
+316,,CUST316,Female,48,Clothing,Credit Card,Miami,Pharmacy,2,25,50,50,Pending,No,miamirep@gmail.com,50
+755,,CUST755,Female,58,Clothing,Cash,San Francisco,Specialty Store,3,25,75,75,Pending,No,sanfranciscorep@gmail.com,75
+28,,CUST028,Female,43,Beauty,Mobile Payment,Boston,Specialty Store,1,500,500,500,Completed,No,bostonrep@gmail.com,500
+613,,CUST613,Female,52,Clothing,Debit Card,Chicago,Pharmacy,3,30,90,90,Pending,No,chicagorep@gmail.com,90
+691,,CUST691,Female,51,Clothing,Mobile Payment,Chicago,Convenience Store,3,30,90,90,Pending,No,chicagorep@gmail.com,90
+129,,CUST129,Female,21,Beauty,Cash,Los Angeles,Warehouse Club,2,300,600,600,Completed,Yes,losangelesrep@gmail.com,600
+693,,CUST693,Male,41,Beauty,Debit Card,Los Angeles,Department Store,3,500,1500,1500,Completed,Yes,losangelesrep@gmail.com,1500
+98,,CUST098,Female,55,Beauty,Mobile Payment,Miami,Warehouse Club,2,50,100,100,Completed,No,miamirep@gmail.com,100
+230,,CUST230,Male,54,Beauty,Credit Card,San Francisco,Department Store,1,25,25,25,Completed,No,sanfranciscorep@gmail.com,25
+863,,CUST863,Female,30,Electronics,Debit Card,Atlanta,Warehouse Club,2,25,50,50,Completed,No,atlantarep@gmail.com,50
+477,,CUST477,Male,43,Clothing,Mobile Payment,Dallas,Convenience Store,4,30,120,120,Pending,No,dallasrep@gmail.com,120
+6,,CUST006,Female,45,Beauty,Cash,Houston,Supermarket,1,30,30,30,Completed,No,houstonrep@gmail.com,30
+483,,CUST483,Male,55,Clothing,Credit Card,Los Angeles,Warehouse Club,1,30,30,30,Pending,No,losangelesrep@gmail.com,30
+738,,CUST738,Male,41,Clothing,Credit Card,Seattle,Department Store,2,50,100,100,Pending,No,seattlerep@gmail.com,100
+588,,CUST588,Male,38,Electronics,Credit Card,Chicago,Warehouse Club,2,30,60,60,Completed,No,chicagorep@gmail.com,60
+222,,CUST222,Male,51,Clothing,Credit Card,Houston,Department Store,4,30,120,120,Pending,No,houstonrep@gmail.com,120
+953,,CUST953,Male,45,Beauty,Cash,Miami,Department Store,3,30,90,90,Completed,No,miamirep@gmail.com,90
+903,,CUST903,Female,51,Beauty,Debit Card,Dallas,Warehouse Club,4,50,200,200,Completed,No,dallasrep@gmail.com,200
+66,,CUST066,Female,45,Electronics,Debit Card,New York,Department Store,1,30,30,30,Completed,No,newyorkrep@gmail.com,30
+482,,CUST482,Female,28,Clothing,Credit Card,San Francisco,Pharmacy,4,300,1200,1200,Pending,Yes,sanfranciscorep@gmail.com,1200
+236,,CUST236,Female,54,Clothing,Mobile Payment,Chicago,Specialty Store,1,25,25,25,Pending,No,chicagorep@gmail.com,25
+102,,CUST102,Female,47,Beauty,Mobile Payment,New York,Convenience Store,2,25,50,50,Completed,No,newyorkrep@gmail.com,50
+228,,CUST228,Female,59,Electronics,Cash,San Francisco,Department Store,2,30,60,60,Completed,No,sanfranciscorep@gmail.com,60
+660,,CUST660,Female,38,Beauty,Debit Card,Atlanta,Convenience Store,2,500,1000,1000,Completed,Yes,atlantarep@gmail.com,1000
+987,,CUST987,Female,30,Clothing,Credit Card,Boston,Department Store,3,300,900,900,Pending,Yes,bostonrep@gmail.com,900
+884,,CUST884,Female,26,Clothing,Mobile Payment,Miami,Pharmacy,2,30,60,60,Pending,No,miamirep@gmail.com,60
+995,,CUST995,Female,41,Clothing,Mobile Payment,Boston,Department Store,1,30,30,30,Pending,No,bostonrep@gmail.com,30
+69,,CUST069,Female,56,Beauty,Cash,Dallas,Department Store,3,25,75,75,Completed,No,dallasrep@gmail.com,75
+18,,CUST018,Female,47,Electronics,Credit Card,San Francisco,Department Store,2,25,50,50,Completed,No,sanfranciscorep@gmail.com,50
+652,2023-01-05,CUST652,Female,34,Beauty,Cash,Chicago,Convenience Store,2,50,100,100,Completed,No,chicagorep@gmail.com,100
+585,2023-01-05,CUST585,Female,24,Clothing,Cash,Houston,Pharmacy,1,25,25,25,Pending,No,houstonrep@gmail.com,25
+337,2023-01-05,CUST337,Male,38,Clothing,Mobile Payment,Seattle,Supermarket,1,500,500,500,Pending,No,seattlerep@gmail.com,500
+293,2023-02-05,CUST293,Male,50,Electronics,Cash,Houston,Specialty Store,3,30,90,90,Completed,No,houstonrep@gmail.com,90
+460,2023-02-05,CUST460,Male,40,Beauty,Credit Card,New York,Pharmacy,1,50,50,50,Completed,No,newyorkrep@gmail.com,50
+242,2023-02-05,CUST242,Male,21,Clothing,Debit Card,San Francisco,Supermarket,1,25,25,25,Pending,No,sanfranciscorep@gmail.com,25
+646,2023-03-05,CUST646,Male,38,Clothing,Mobile Payment,Atlanta,Pharmacy,3,30,90,90,Pending,No,atlantarep@gmail.com,90
+749,2023-03-05,CUST749,Male,42,Beauty,Cash,Atlanta,Convenience Store,1,30,30,30,Completed,No,atlantarep@gmail.com,30
+188,2023-03-05,CUST188,Male,40,Clothing,Mobile Payment,Dallas,Supermarket,3,25,75,75,Pending,No,dallasrep@gmail.com,75
+357,2023-03-05,CUST357,Female,40,Electronics,Mobile Payment,Dallas,Specialty Store,3,25,75,75,Completed,No,dallasrep@gmail.com,75
+974,2023-03-05,CUST974,Male,47,Beauty,Cash,Miami,Pharmacy,1,30,30,30,Completed,No,miamirep@gmail.com,30
+849,2023-04-05,CUST849,Male,32,Clothing,Debit Card,Houston,Department Store,2,25,50,50,Pending,No,houstonrep@gmail.com,50
+853,2023-04-05,CUST853,Male,21,Beauty,Debit Card,Houston,Warehouse Club,2,500,1000,1000,Completed,Yes,houstonrep@gmail.com,1000
+190,2023-04-05,CUST190,Female,60,Beauty,Credit Card,Seattle,Convenience Store,3,30,90,90,Completed,No,seattlerep@gmail.com,90
+824,2023-05-05,CUST824,Male,63,Clothing,Credit Card,Atlanta,Warehouse Club,4,30,120,120,Pending,No,atlantarep@gmail.com,120
+606,2023-05-05,CUST606,Male,22,Electronics,Debit Card,Dallas,Supermarket,1,50,50,50,Completed,No,dallasrep@gmail.com,50
+252,2023-05-05,CUST252,Male,54,Electronics,Mobile Payment,Los Angeles,Pharmacy,1,300,300,300,Completed,No,losangelesrep@gmail.com,300
+779,2023-05-05,CUST779,Female,56,Electronics,Debit Card,Miami,Warehouse Club,2,500,1000,1000,Completed,Yes,miamirep@gmail.com,1000
+866,2023-05-05,CUST866,Male,24,Electronics,Credit Card,New York,Specialty Store,1,50,50,50,Completed,No,newyorkrep@gmail.com,50
+820,2023-06-05,CUST820,Male,49,Electronics,Mobile Payment,Atlanta,Pharmacy,4,50,200,200,Completed,No,atlantarep@gmail.com,200
+593,2023-06-05,CUST593,Male,35,Electronics,Debit Card,Dallas,Pharmacy,2,30,60,60,Completed,No,dallasrep@gmail.com,60
+5,2023-06-05,CUST005,Male,30,Beauty,Debit Card,Houston,Specialty Store,2,50,100,100,Completed,No,houstonrep@gmail.com,100
+90,2023-06-05,CUST090,Female,51,Electronics,Credit Card,New York,Pharmacy,1,30,30,30,Completed,No,newyorkrep@gmail.com,30
+380,2023-06-05,CUST380,Male,56,Electronics,Mobile Payment,Seattle,Specialty Store,2,300,600,600,Completed,Yes,seattlerep@gmail.com,600
+120,2023-07-05,CUST120,Male,60,Beauty,Debit Card,Atlanta,Department Store,1,50,50,50,Completed,No,atlantarep@gmail.com,50
+341,2023-07-05,CUST341,Male,31,Clothing,Mobile Payment,Dallas,Supermarket,4,50,200,200,Pending,No,dallasrep@gmail.com,200
+744,2023-07-05,CUST744,Male,40,Electronics,Debit Card,Houston,Supermarket,1,25,25,25,Completed,No,houstonrep@gmail.com,25
+221,2023-07-05,CUST221,Male,39,Beauty,Debit Card,Miami,Warehouse Club,2,300,600,600,Completed,Yes,miamirep@gmail.com,600
+640,2023-07-05,CUST640,Female,51,Electronics,Credit Card,Seattle,Specialty Store,4,30,120,120,Completed,No,seattlerep@gmail.com,120
+620,2023-08-05,CUST620,Male,63,Electronics,Debit Card,Dallas,Warehouse Club,3,25,75,75,Completed,No,dallasrep@gmail.com,75
+273,2023-08-05,CUST273,Female,22,Beauty,Credit Card,Houston,Convenience Store,1,50,50,50,Completed,No,houstonrep@gmail.com,50
+452,2023-08-05,CUST452,Female,48,Clothing,Credit Card,Los Angeles,Specialty Store,3,500,1500,1500,Pending,Yes,losangelesrep@gmail.com,1500
+469,2023-08-05,CUST469,Male,18,Beauty,Credit Card,Los Angeles,Specialty Store,3,25,75,75,Completed,No,losangelesrep@gmail.com,75
+946,2023-08-05,CUST946,Male,62,Electronics,Credit Card,Miami,Specialty Store,4,500,2000,2000,Completed,Yes,miamirep@gmail.com,2000
+283,2023-08-05,CUST283,Female,18,Electronics,Mobile Payment,Seattle,Specialty Store,1,500,500,500,Completed,No,seattlerep@gmail.com,500
+414,2023-09-05,CUST414,Male,48,Beauty,Debit Card,Boston,Warehouse Club,4,25,100,100,Completed,No,bostonrep@gmail.com,100
+148,2023-09-05,CUST148,Male,18,Clothing,Cash,Los Angeles,Warehouse Club,2,30,60,60,Pending,No,losangelesrep@gmail.com,60
+883,2023-09-05,CUST883,Male,40,Electronics,Cash,Los Angeles,Convenience Store,1,500,500,500,Completed,No,losangelesrep@gmail.com,500
+731,2023-10-05,CUST731,Male,54,Clothing,Debit Card,Atlanta,Specialty Store,4,500,2000,2000,Pending,Yes,atlantarep@gmail.com,2000
+930,2023-10-05,CUST930,Male,54,Clothing,Cash,Dallas,Supermarket,4,50,200,200,Pending,No,dallasrep@gmail.com,200
+518,2023-11-05,CUST518,Female,40,Clothing,Cash,Dallas,Specialty Store,1,30,30,30,Pending,No,dallasrep@gmail.com,30
+758,2023-12-05,CUST758,Male,64,Clothing,Credit Card,Atlanta,Department Store,4,25,100,100,Pending,No,atlantarep@gmail.com,100
+639,,CUST639,Female,62,Beauty,Mobile Payment,San Francisco,Department Store,4,50,200,200,Completed,No,sanfranciscorep@gmail.com,200
+838,,CUST838,Male,47,Electronics,Debit Card,San Francisco,Warehouse Club,2,300,600,600,Completed,Yes,sanfranciscorep@gmail.com,600
+501,,CUST501,Male,39,Electronics,Mobile Payment,Atlanta,Warehouse Club,2,30,60,60,Completed,No,atlantarep@gmail.com,60
+353,,CUST353,Male,31,Electronics,Debit Card,Miami,Convenience Store,1,500,500,500,Completed,No,miamirep@gmail.com,500
+721,,CUST721,Female,52,Clothing,Mobile Payment,Miami,Pharmacy,1,500,500,500,Pending,No,miamirep@gmail.com,500
+123,,CUST123,Female,40,Electronics,Mobile Payment,Chicago,Department Store,2,30,60,60,Completed,No,chicagorep@gmail.com,60
+164,,CUST164,Female,47,Beauty,Cash,Chicago,Specialty Store,3,500,1500,1500,Completed,Yes,chicagorep@gmail.com,1500
+425,,CUST425,Female,55,Electronics,Mobile Payment,Dallas,Warehouse Club,4,30,120,120,Completed,No,dallasrep@gmail.com,120
+203,,CUST203,Male,56,Clothing,Mobile Payment,Atlanta,Specialty Store,2,500,1000,1000,Pending,Yes,atlantarep@gmail.com,1000
+398,,CUST398,Female,48,Clothing,Mobile Payment,Atlanta,Pharmacy,2,300,600,600,Pending,Yes,atlantarep@gmail.com,600
+970,,CUST970,Male,59,Electronics,Debit Card,Atlanta,Convenience Store,4,500,2000,2000,Completed,Yes,atlantarep@gmail.com,2000
+358,,CUST358,Female,32,Beauty,Credit Card,Chicago,Specialty Store,1,300,300,300,Completed,No,chicagorep@gmail.com,300
+504,,CUST504,Female,38,Beauty,Debit Card,Dallas,Convenience Store,3,50,150,150,Completed,No,dallasrep@gmail.com,150
+48,,CUST048,Male,54,Electronics,Mobile Payment,Los Angeles,Convenience Store,3,300,900,900,Completed,Yes,losangelesrep@gmail.com,900
+411,,CUST411,Male,62,Electronics,Debit Card,New York,Convenience Store,4,50,200,200,Completed,No,newyorkrep@gmail.com,200
+118,,CUST118,Female,30,Electronics,Credit Card,San Francisco,Convenience Store,7,500,3500,3500,Completed,Yes,sanfranciscorep@gmail.com,3500
+376,,CUST376,Female,64,Beauty,Cash,San Francisco,Department Store,1,30,30,30,Completed,No,sanfranciscorep@gmail.com,30
+305,,CUST305,Female,18,Beauty,Mobile Payment,Seattle,Supermarket,1,30,30,30,Completed,No,seattlerep@gmail.com,30
+996,,CUST996,Male,62,Clothing,Cash,Seattle,Supermarket,1,50,50,50,Pending,No,seattlerep@gmail.com,50
+81,,CUST081,Male,40,Electronics,Mobile Payment,Miami,Convenience Store,1,50,50,50,Completed,No,miamirep@gmail.com,50
+470,,CUST470,Female,57,Clothing,Credit Card,New York,Department Store,2,500,1000,1000,Pending,Yes,newyorkrep@gmail.com,1000
+155,,CUST155,Male,31,Electronics,Credit Card,Seattle,Warehouse Club,4,500,2000,2000,Completed,Yes,seattlerep@gmail.com,2000
+818,,CUST818,Male,30,Electronics,Mobile Payment,Houston,Specialty Store,1,500,500,500,Completed,No,houstonrep@gmail.com,500
+106,,CUST106,Female,46,Clothing,Cash,Seattle,Supermarket,1,50,50,50,Pending,No,seattlerep@gmail.com,50
+94,,CUST094,Female,47,Beauty,Cash,Boston,Convenience Store,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+881,,CUST881,Male,22,Electronics,Cash,Chicago,Warehouse Club,1,300,300,300,Completed,No,chicagorep@gmail.com,300
+811,,CUST811,Male,61,Beauty,Debit Card,Los Angeles,Convenience Store,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+403,,CUST403,Male,32,Clothing,Credit Card,Chicago,Department Store,2,300,600,600,Pending,Yes,chicagorep@gmail.com,600
+694,,CUST694,Female,39,Electronics,Debit Card,Dallas,Supermarket,2,25,50,50,Completed,No,dallasrep@gmail.com,50
+653,,CUST653,Male,54,Clothing,Debit Card,Seattle,Supermarket,3,25,75,75,Pending,No,seattlerep@gmail.com,75
+911,,CUST911,Male,42,Electronics,Mobile Payment,Boston,Specialty Store,3,300,900,900,Completed,Yes,bostonrep@gmail.com,900
+4,,CUST004,Male,37,Clothing,Mobile Payment,Chicago,Pharmacy,1,500,500,500,Pending,No,chicagorep@gmail.com,500
+647,,CUST647,Male,59,Clothing,Debit Card,Chicago,Pharmacy,3,500,1500,1500,Pending,Yes,chicagorep@gmail.com,1500
+843,,CUST843,Male,21,Beauty,Debit Card,Dallas,Supermarket,3,500,1500,1500,Completed,Yes,dallasrep@gmail.com,1500
+642,,CUST642,Female,54,Clothing,Debit Card,Miami,Supermarket,4,25,100,100,Pending,No,miamirep@gmail.com,100
+895,,CUST895,Female,55,Clothing,Mobile Payment,New York,Convenience Store,4,30,120,120,Pending,No,newyorkrep@gmail.com,120
+419,,CUST419,Female,44,Clothing,Cash,Seattle,Department Store,3,30,90,90,Pending,No,seattlerep@gmail.com,90
+281,,CUST281,Female,29,Beauty,Cash,Atlanta,Convenience Store,4,500,2000,2000,Completed,Yes,atlantarep@gmail.com,2000
+822,,CUST822,Female,52,Beauty,Credit Card,Atlanta,Supermarket,3,50,150,150,Completed,No,atlantarep@gmail.com,150
+31,,CUST031,Male,44,Electronics,Debit Card,Boston,Specialty Store,10,300,3000,3000,Completed,Yes,bostonrep@gmail.com,3000
+37,,CUST037,Female,18,Beauty,Debit Card,Chicago,Convenience Store,3,25,75,75,Completed,No,chicagorep@gmail.com,75
+243,,CUST243,Female,47,Electronics,Mobile Payment,Chicago,Warehouse Club,3,300,900,900,Completed,Yes,chicagorep@gmail.com,900
+72,,CUST072,Female,20,Electronics,Mobile Payment,Houston,Pharmacy,4,500,2000,2000,Completed,Yes,houstonrep@gmail.com,2000
+489,,CUST489,Male,44,Electronics,Cash,Houston,Convenience Store,1,30,30,30,Completed,No,houstonrep@gmail.com,30
+729,,CUST729,Male,29,Clothing,Credit Card,San Francisco,Department Store,4,300,1200,1200,Pending,Yes,sanfranciscorep@gmail.com,1200
+491,,CUST491,Female,60,Electronics,Credit Card,Seattle,Convenience Store,3,300,900,900,Completed,Yes,seattlerep@gmail.com,900
+840,,CUST840,Male,62,Clothing,Debit Card,Seattle,Supermarket,2,25,50,50,Pending,No,seattlerep@gmail.com,50
+404,,CUST404,Male,46,Electronics,Credit Card,Houston,Warehouse Club,2,500,1000,1000,Completed,Yes,houstonrep@gmail.com,1000
+990,,CUST990,Female,58,Beauty,Debit Card,Houston,Supermarket,2,500,1000,1000,Completed,Yes,houstonrep@gmail.com,1000
+899,,CUST899,Male,26,Clothing,Mobile Payment,San Francisco,Pharmacy,2,300,600,600,Pending,Yes,sanfranciscorep@gmail.com,600
+382,,CUST382,Female,53,Clothing,Credit Card,Boston,Supermarket,2,500,1000,1000,Pending,Yes,bostonrep@gmail.com,1000
+923,,CUST923,Male,32,Beauty,Mobile Payment,Houston,Pharmacy,3,300,900,900,Completed,Yes,houstonrep@gmail.com,900
+578,,CUST578,Female,54,Clothing,Debit Card,Los Angeles,Convenience Store,4,30,120,120,Pending,No,losangelesrep@gmail.com,120
+651,,CUST651,Male,51,Clothing,Cash,Boston,Supermarket,3,50,150,150,Pending,No,bostonrep@gmail.com,150
+561,,CUST561,Female,64,Clothing,Cash,Dallas,Convenience Store,4,500,2000,2000,Pending,Yes,dallasrep@gmail.com,2000
+307,,CUST307,Female,26,Electronics,Debit Card,Los Angeles,Pharmacy,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+988,,CUST988,Female,63,Clothing,Credit Card,Miami,Warehouse Club,3,25,75,75,Pending,No,miamirep@gmail.com,75
+67,,CUST067,Female,48,Beauty,Credit Card,Miami,Department Store,4,300,1200,1200,Completed,Yes,miamirep@gmail.com,1200
+915,,CUST915,Female,26,Beauty,Credit Card,Los Angeles,Department Store,3,30,90,90,Completed,No,losangelesrep@gmail.com,90
+985,,CUST985,Female,19,Electronics,Mobile Payment,San Francisco,Department Store,2,25,50,50,Completed,No,sanfranciscorep@gmail.com,50
+862,,CUST862,Male,28,Electronics,Mobile Payment,San Francisco,Department Store,4,300,1200,1200,Completed,Yes,sanfranciscorep@gmail.com,1200
+56,,CUST056,Female,26,Clothing,Mobile Payment,Seattle,Specialty Store,3,300,900,900,Pending,Yes,seattlerep@gmail.com,900
+159,,CUST159,Male,26,Clothing,Debit Card,Seattle,Warehouse Club,4,50,200,200,Pending,No,seattlerep@gmail.com,200
+545,2023-01-06,CUST545,Male,27,Clothing,Credit Card,Atlanta,Specialty Store,2,25,50,50,Pending,No,atlantarep@gmail.com,50
+315,2023-01-06,CUST315,Male,47,Clothing,Debit Card,Boston,Pharmacy,2,30,60,60,Pending,No,bostonrep@gmail.com,60
+902,2023-01-06,CUST902,Female,54,Beauty,Mobile Payment,Chicago,Warehouse Club,1,50,50,50,Completed,No,chicagorep@gmail.com,50
+685,2023-02-06,CUST685,Male,57,Electronics,Cash,Dallas,Convenience Store,2,25,50,50,Completed,No,dallasrep@gmail.com,50
+170,2023-02-06,CUST170,Female,25,Clothing,Debit Card,New York,Pharmacy,2,25,50,50,Pending,No,newyorkrep@gmail.com,50
+958,2023-02-06,CUST958,Male,62,Electronics,Cash,Seattle,Warehouse Club,2,25,50,50,Completed,No,seattlerep@gmail.com,50
+363,2023-03-06,CUST363,Male,64,Beauty,Cash,Chicago,Specialty Store,1,25,25,25,Completed,No,chicagorep@gmail.com,25
+394,2023-03-06,CUST394,Female,27,Clothing,Mobile Payment,Chicago,Department Store,1,500,500,500,Pending,No,chicagorep@gmail.com,500
+537,2023-03-06,CUST537,Female,21,Beauty,Mobile Payment,Los Angeles,Supermarket,1,500,500,500,Completed,No,losangelesrep@gmail.com,500
+556,2023-04-06,CUST556,Female,18,Electronics,Credit Card,Atlanta,Convenience Store,1,50,50,50,Completed,No,atlantarep@gmail.com,50
+782,2023-04-06,CUST782,Male,59,Clothing,Mobile Payment,Chicago,Pharmacy,3,300,900,900,Pending,Yes,chicagorep@gmail.com,900
+387,2023-04-06,CUST387,Male,44,Beauty,Debit Card,Dallas,Convenience Store,1,30,30,30,Completed,No,dallasrep@gmail.com,30
+906,2023-04-06,CUST906,Female,20,Clothing,Credit Card,Dallas,Warehouse Club,1,50,50,50,Pending,No,dallasrep@gmail.com,50
+944,2023-05-06,CUST944,Male,44,Clothing,Mobile Payment,Boston,Warehouse Club,2,25,50,50,Pending,No,bostonrep@gmail.com,50
+560,2023-05-06,CUST560,Female,25,Electronics,Cash,San Francisco,Convenience Store,1,50,50,50,Completed,No,sanfranciscorep@gmail.com,50
+961,2023-06-06,CUST961,Male,53,Beauty,Debit Card,Los Angeles,Convenience Store,4,50,200,200,Completed,No,losangelesrep@gmail.com,200
+867,2023-06-06,CUST867,Male,21,Electronics,Credit Card,San Francisco,Pharmacy,1,500,500,500,Completed,No,sanfranciscorep@gmail.com,500
+481,2023-06-06,CUST481,Female,43,Electronics,Credit Card,Seattle,Convenience Store,4,300,1200,1200,Completed,Yes,seattlerep@gmail.com,1200
+882,2023-06-06,CUST882,Female,64,Electronics,Credit Card,Seattle,Department Store,2,25,50,50,Completed,No,seattlerep@gmail.com,50
+446,2023-07-06,CUST446,Male,21,Electronics,Cash,Atlanta,Specialty Store,1,50,50,50,Completed,No,atlantarep@gmail.com,50
+187,2023-07-06,CUST187,Female,64,Clothing,Cash,San Francisco,Pharmacy,2,50,100,100,Pending,No,sanfranciscorep@gmail.com,100
+587,2023-08-06,CUST587,Female,40,Beauty,Credit Card,Atlanta,Pharmacy,4,300,1200,1200,Completed,Yes,atlantarep@gmail.com,1200
+539,2023-08-06,CUST539,Male,25,Beauty,Debit Card,New York,Warehouse Club,1,500,500,500,Completed,No,newyorkrep@gmail.com,500
+212,2023-09-06,CUST212,Male,21,Clothing,Debit Card,Houston,Warehouse Club,3,500,1500,1500,Pending,Yes,houstonrep@gmail.com,1500
+769,2023-09-06,CUST769,Female,31,Electronics,Cash,San Francisco,Pharmacy,4,30,120,120,Completed,No,sanfranciscorep@gmail.com,120
+765,2023-09-06,CUST765,Male,43,Clothing,Debit Card,Seattle,Pharmacy,4,50,200,200,Pending,No,seattlerep@gmail.com,200
+510,2023-10-06,CUST510,Female,39,Beauty,Debit Card,Houston,Convenience Store,4,50,200,200,Completed,No,houstonrep@gmail.com,200
+534,2023-10-06,CUST534,Male,45,Clothing,Credit Card,Miami,Specialty Store,2,500,1000,1000,Pending,Yes,miamirep@gmail.com,1000
+321,2023-10-06,CUST321,Female,26,Electronics,Mobile Payment,San Francisco,Warehouse Club,2,25,50,50,Completed,No,sanfranciscorep@gmail.com,50
+356,2023-10-06,CUST356,Male,50,Electronics,Cash,San Francisco,Department Store,3,500,1500,1500,Completed,Yes,sanfranciscorep@gmail.com,1500
+352,2023-11-06,CUST352,Male,57,Electronics,Mobile Payment,Boston,Pharmacy,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+887,2023-11-06,CUST887,Male,59,Clothing,Cash,Boston,Specialty Store,4,25,100,100,Pending,No,bostonrep@gmail.com,100
+104,2023-11-06,CUST104,Female,34,Beauty,Cash,San Francisco,Convenience Store,2,500,1000,1000,Completed,Yes,sanfranciscorep@gmail.com,1000
+110,2023-11-06,CUST110,Male,27,Clothing,Mobile Payment,Seattle,Department Store,3,300,900,900,Pending,Yes,seattlerep@gmail.com,900
+365,2023-11-06,CUST365,Male,31,Clothing,Debit Card,Seattle,Supermarket,1,300,300,300,Pending,No,seattlerep@gmail.com,300
+629,2023-12-06,CUST629,Male,62,Electronics,Credit Card,Seattle,Convenience Store,2,25,50,50,Completed,No,seattlerep@gmail.com,50
+655,,CUST655,Female,55,Clothing,Credit Card,Boston,Convenience Store,1,500,500,500,Pending,No,bostonrep@gmail.com,500
+567,,CUST567,Female,25,Clothing,Mobile Payment,Miami,Specialty Store,3,300,900,900,Pending,Yes,miamirep@gmail.com,900
+819,,CUST819,Female,35,Beauty,Debit Card,Atlanta,Warehouse Club,2,50,100,100,Completed,No,atlantarep@gmail.com,100
+182,,CUST182,Male,62,Beauty,Debit Card,Chicago,Convenience Store,4,30,120,120,Completed,No,chicagorep@gmail.com,120
+100,,CUST100,Male,41,Electronics,Credit Card,Chicago,Convenience Store,1,30,30,30,Completed,No,chicagorep@gmail.com,30
+833,,CUST833,Male,42,Beauty,Debit Card,Chicago,Pharmacy,4,50,200,200,Completed,No,chicagorep@gmail.com,200
+723,,CUST723,Female,54,Beauty,Cash,Los Angeles,Warehouse Club,4,50,200,200,Completed,No,losangelesrep@gmail.com,200
+542,,CUST542,Female,20,Beauty,Mobile Payment,Miami,Convenience Store,1,50,50,50,Completed,No,miamirep@gmail.com,50
+726,,CUST726,Male,47,Clothing,Cash,San Francisco,Specialty Store,4,300,1200,1200,Pending,Yes,sanfranciscorep@gmail.com,1200
+488,,CUST488,Female,51,Electronics,Debit Card,San Francisco,Specialty Store,3,300,900,900,Completed,Yes,sanfranciscorep@gmail.com,900
+877,,CUST877,Female,58,Clothing,Credit Card,Boston,Supermarket,1,25,25,25,Pending,No,bostonrep@gmail.com,25
+669,,CUST669,Male,24,Beauty,Credit Card,Houston,Supermarket,4,300,1200,1200,Completed,Yes,houstonrep@gmail.com,1200
+532,,CUST532,Female,64,Clothing,Mobile Payment,Los Angeles,Convenience Store,4,30,120,120,Pending,No,losangelesrep@gmail.com,120
+239,,CUST239,Male,38,Electronics,Cash,Miami,Supermarket,3,500,1500,1500,Completed,Yes,miamirep@gmail.com,1500
+498,,CUST498,Female,50,Clothing,Credit Card,Miami,Supermarket,4,25,100,100,Pending,No,miamirep@gmail.com,100
+422,,CUST422,Female,28,Clothing,Debit Card,Boston,Specialty Store,3,30,90,90,Pending,No,bostonrep@gmail.com,90
+466,,CUST466,Male,63,Electronics,Debit Card,Seattle,Warehouse Club,4,25,100,100,Completed,No,seattlerep@gmail.com,100
+583,,CUST583,Female,24,Electronics,Debit Card,Los Angeles,Department Store,4,25,100,100,Completed,No,losangelesrep@gmail.com,100
+654,,CUST654,Male,42,Clothing,Mobile Payment,Los Angeles,Department Store,3,25,75,75,Pending,No,losangelesrep@gmail.com,75
+40,,CUST040,Male,45,Beauty,Cash,Dallas,Supermarket,1,50,50,50,Completed,No,dallasrep@gmail.com,50
+727,,CUST727,Male,55,Beauty,Mobile Payment,Dallas,Specialty Store,3,300,900,900,Completed,Yes,dallasrep@gmail.com,900
+830,,CUST830,Female,64,Clothing,Debit Card,New York,Pharmacy,3,50,150,150,Pending,No,newyorkrep@gmail.com,150
+699,,CUST699,Female,37,Clothing,Cash,Seattle,Convenience Store,4,30,120,120,Pending,No,seattlerep@gmail.com,120
+271,,CUST271,Female,62,Beauty,Debit Card,Dallas,Supermarket,4,30,120,120,Completed,No,dallasrep@gmail.com,120
+224,,CUST224,Female,25,Clothing,Debit Card,San Francisco,Convenience Store,1,50,50,50,Pending,No,sanfranciscorep@gmail.com,50
+157,,CUST157,Male,62,Electronics,Cash,Dallas,Convenience Store,4,500,2000,2000,Completed,Yes,dallasrep@gmail.com,2000
+839,,CUST839,Female,20,Electronics,Cash,Dallas,Warehouse Club,4,300,1200,1200,Completed,Yes,dallasrep@gmail.com,1200
+796,,CUST796,Male,43,Beauty,Credit Card,Los Angeles,Specialty Store,4,30,120,120,Completed,No,losangelesrep@gmail.com,120
+36,,CUST036,Male,52,Beauty,Credit Card,Miami,Warehouse Club,3,300,900,900,Completed,Yes,miamirep@gmail.com,900
+927,,CUST927,Male,43,Electronics,Debit Card,New York,Pharmacy,4,500,2000,2000,Completed,Yes,newyorkrep@gmail.com,2000
+407,,CUST407,Female,46,Electronics,Debit Card,Miami,Convenience Store,3,300,900,900,Completed,Yes,miamirep@gmail.com,900
+46,,CUST046,Female,20,Electronics,Credit Card,Chicago,Convenience Store,4,300,1200,1200,Completed,Yes,chicagorep@gmail.com,1200
+509,,CUST509,Female,37,Electronics,Cash,Houston,Pharmacy,3,300,900,900,Completed,Yes,houstonrep@gmail.com,900
+874,,CUST874,Male,60,Beauty,Mobile Payment,Houston,Specialty Store,1,30,30,30,Completed,No,houstonrep@gmail.com,30
+788,,CUST788,Female,52,Beauty,Cash,Boston,Convenience Store,3,300,900,900,Completed,Yes,bostonrep@gmail.com,900
+378,,CUST378,Male,50,Beauty,Credit Card,Los Angeles,Warehouse Club,1,300,300,300,Completed,No,losangelesrep@gmail.com,300
+492,,CUST492,Male,61,Beauty,Credit Card,Atlanta,Warehouse Club,4,25,100,100,Completed,No,atlantarep@gmail.com,100
+480,,CUST480,Female,42,Beauty,Cash,Chicago,Warehouse Club,4,500,2000,2000,Completed,Yes,chicagorep@gmail.com,2000
+737,,CUST737,Female,33,Clothing,Credit Card,Seattle,Specialty Store,1,50,50,50,Pending,No,seattlerep@gmail.com,50
+684,,CUST684,Female,28,Clothing,Mobile Payment,San Francisco,Convenience Store,2,500,1000,1000,Pending,Yes,sanfranciscorep@gmail.com,1000
+878,,CUST878,Female,20,Clothing,Credit Card,San Francisco,Department Store,1,30,30,30,Pending,No,sanfranciscorep@gmail.com,30
+78,2023-01-07,CUST078,Female,47,Clothing,Mobile Payment,Los Angeles,Specialty Store,3,500,1500,1500,Pending,Yes,losangelesrep@gmail.com,1500
+837,2023-01-07,CUST837,Male,18,Beauty,Cash,Miami,Pharmacy,3,30,90,90,Completed,No,miamirep@gmail.com,90
+455,2023-01-07,CUST455,Male,31,Electronics,Mobile Payment,New York,Pharmacy,4,25,100,100,Completed,No,newyorkrep@gmail.com,100
+260,2023-01-07,CUST260,Male,28,Beauty,Credit Card,Seattle,Warehouse Club,2,30,60,60,Completed,No,seattlerep@gmail.com,60
+45,2023-03-07,CUST045,Female,55,Electronics,Cash,Atlanta,Department Store,1,30,30,30,Completed,No,atlantarep@gmail.com,30
+449,2023-03-07,CUST449,Male,25,Electronics,Debit Card,Dallas,Warehouse Club,4,50,200,200,Completed,No,dallasrep@gmail.com,200
+904,2023-04-07,CUST904,Male,28,Clothing,Cash,New York,Department Store,1,500,500,500,Pending,No,newyorkrep@gmail.com,500
+128,2023-05-07,CUST128,Male,25,Beauty,Cash,Boston,Pharmacy,1,500,500,500,Completed,No,bostonrep@gmail.com,500
+802,2023-05-07,CUST802,Female,46,Beauty,Credit Card,Houston,Department Store,1,30,30,30,Completed,No,houstonrep@gmail.com,30
+186,2023-05-07,CUST186,Male,20,Clothing,Mobile Payment,Los Angeles,Warehouse Club,6,50,300,300,Pending,No,losangelesrep@gmail.com,300
+59,2023-05-07,CUST059,Male,62,Clothing,Mobile Payment,Miami,Pharmacy,1,50,50,50,Pending,No,miamirep@gmail.com,50
+447,2023-06-07,CUST447,Male,22,Beauty,Cash,Atlanta,Pharmacy,4,500,2000,2000,Completed,Yes,atlantarep@gmail.com,2000
+75,2023-06-07,CUST075,Male,61,Beauty,Mobile Payment,Dallas,Supermarket,8,50,400,400,Completed,No,dallasrep@gmail.com,400
+528,2023-06-07,CUST528,Female,36,Clothing,Credit Card,San Francisco,Warehouse Club,2,30,60,60,Pending,No,sanfranciscorep@gmail.com,60
+759,2023-08-07,CUST759,Male,49,Electronics,Debit Card,Chicago,Convenience Store,2,50,100,100,Completed,No,chicagorep@gmail.com,100
+870,2023-08-07,CUST870,Female,46,Electronics,Cash,New York,Supermarket,4,30,120,120,Completed,No,newyorkrep@gmail.com,120
+77,2023-09-07,CUST077,Female,47,Clothing,Cash,Atlanta,Warehouse Club,2,50,100,100,Pending,No,atlantarep@gmail.com,100
+439,2023-09-07,CUST439,Male,50,Clothing,Mobile Payment,Chicago,Warehouse Club,3,25,75,75,Pending,No,chicagorep@gmail.com,75
+792,2023-09-07,CUST792,Female,20,Beauty,Debit Card,Chicago,Convenience Store,1,50,50,50,Completed,No,chicagorep@gmail.com,50
+381,2023-09-07,CUST381,Female,44,Clothing,Mobile Payment,Los Angeles,Specialty Store,5,25,125,125,Pending,No,losangelesrep@gmail.com,125
+216,2023-11-07,CUST216,Male,62,Electronics,Credit Card,Los Angeles,Supermarket,2,50,100,100,Completed,No,losangelesrep@gmail.com,100
+176,2023-11-07,CUST176,Female,43,Beauty,Cash,Seattle,Convenience Store,2,50,100,100,Completed,No,seattlerep@gmail.com,100
+772,2023-12-07,CUST772,Male,26,Electronics,Mobile Payment,New York,Warehouse Club,1,30,30,30,Completed,No,newyorkrep@gmail.com,30
+53,,CUST053,Male,34,Electronics,Mobile Payment,Boston,Convenience Store,2,50,100,100,Completed,No,bostonrep@gmail.com,100
+71,,CUST071,Female,51,Beauty,Credit Card,Atlanta,Pharmacy,4,25,100,100,Completed,No,atlantarep@gmail.com,100
+43,,CUST043,Female,48,Clothing,Cash,Boston,Specialty Store,1,300,300,300,Pending,No,bostonrep@gmail.com,300
+302,,CUST302,Male,57,Beauty,Credit Card,Chicago,Department Store,2,300,600,600,Completed,Yes,chicagorep@gmail.com,600
+829,,CUST829,Male,61,Beauty,Cash,Chicago,Warehouse Club,3,30,90,90,Completed,No,chicagorep@gmail.com,90
+722,,CUST722,Male,20,Beauty,Mobile Payment,Houston,Convenience Store,3,300,900,900,Completed,Yes,houstonrep@gmail.com,900
+93,,CUST093,Female,35,Beauty,Mobile Payment,Miami,Pharmacy,4,500,2000,2000,Completed,Yes,miamirep@gmail.com,2000
+681,,CUST681,Female,43,Electronics,Debit Card,New York,Supermarket,2,30,60,60,Completed,No,newyorkrep@gmail.com,60
+728,,CUST728,Male,51,Electronics,Debit Card,New York,Convenience Store,3,50,150,150,Completed,No,newyorkrep@gmail.com,150
+551,,CUST551,Male,45,Electronics,Credit Card,Seattle,Supermarket,3,300,900,900,Completed,Yes,seattlerep@gmail.com,900
+955,,CUST955,Male,58,Clothing,Mobile Payment,Seattle,Supermarket,1,25,25,25,Pending,No,seattlerep@gmail.com,25
+474,,CUST474,Female,26,Clothing,Credit Card,Boston,Convenience Store,3,500,1500,1500,Pending,Yes,bostonrep@gmail.com,1500
+144,,CUST144,Female,59,Beauty,Credit Card,Miami,Department Store,3,500,1500,1500,Completed,Yes,miamirep@gmail.com,1500
+661,,CUST661,Female,44,Clothing,Mobile Payment,Houston,Department Store,4,25,100,100,Pending,No,houstonrep@gmail.com,100
+603,,CUST603,Female,40,Clothing,Mobile Payment,Los Angeles,Specialty Store,3,30,90,90,Pending,No,losangelesrep@gmail.com,90
+515,,CUST515,Female,49,Clothing,Debit Card,Atlanta,Convenience Store,3,300,900,900,Pending,Yes,atlantarep@gmail.com,900
+143,,CUST143,Female,45,Clothing,Cash,Miami,Specialty Store,1,50,50,50,Pending,No,miamirep@gmail.com,50
+698,,CUST698,Female,64,Electronics,Credit Card,Dallas,Warehouse Club,1,300,300,300,Completed,No,dallasrep@gmail.com,300
+686,,CUST686,Female,28,Electronics,Credit Card,Houston,Warehouse Club,4,50,200,200,Completed,No,houstonrep@gmail.com,200
+304,,CUST304,Female,37,Electronics,Debit Card,San Francisco,Department Store,2,30,60,60,Completed,No,sanfranciscorep@gmail.com,60
+676,,CUST676,Male,63,Electronics,Debit Card,Seattle,Supermarket,3,500,1500,1500,Completed,Yes,seattlerep@gmail.com,1500
+709,,CUST709,Female,19,Electronics,Cash,Boston,Warehouse Club,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+359,,CUST359,Male,50,Clothing,Mobile Payment,Atlanta,Specialty Store,1,50,50,50,Pending,No,atlantarep@gmail.com,50
+114,,CUST114,Female,22,Beauty,Credit Card,Miami,Supermarket,7,25,175,175,Completed,No,miamirep@gmail.com,175
+773,,CUST773,Male,25,Electronics,Credit Card,Chicago,Pharmacy,4,500,2000,2000,Completed,Yes,chicagorep@gmail.com,2000
+213,,CUST213,Male,27,Beauty,Cash,Boston,Department Store,3,500,1500,1500,Completed,Yes,bostonrep@gmail.com,1500
+605,,CUST605,Male,37,Electronics,Cash,Boston,Supermarket,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+487,,CUST487,Male,44,Clothing,Mobile Payment,Chicago,Convenience Store,4,500,2000,2000,Pending,Yes,chicagorep@gmail.com,2000
+495,,CUST495,Male,24,Beauty,Credit Card,Los Angeles,Department Store,2,30,60,60,Completed,No,losangelesrep@gmail.com,60
+127,,CUST127,Female,33,Clothing,Debit Card,San Francisco,Department Store,2,25,50,50,Pending,No,sanfranciscorep@gmail.com,50
+299,,CUST299,Male,61,Electronics,Cash,Boston,Supermarket,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+105,,CUST105,Female,22,Electronics,Cash,New York,Department Store,1,500,500,500,Completed,No,newyorkrep@gmail.com,500
+934,,CUST934,Male,30,Beauty,Cash,San Francisco,Specialty Store,1,500,500,500,Completed,No,sanfranciscorep@gmail.com,500
+270,,CUST270,Male,43,Electronics,Debit Card,Dallas,Pharmacy,1,300,300,300,Completed,No,dallasrep@gmail.com,300
+338,,CUST338,Male,54,Beauty,Debit Card,Houston,Supermarket,2,50,100,100,Completed,No,houstonrep@gmail.com,100
+543,,CUST543,Male,49,Beauty,Debit Card,Miami,Department Store,2,300,600,600,Completed,Yes,miamirep@gmail.com,600
+557,,CUST557,Female,20,Beauty,Credit Card,Houston,Pharmacy,3,30,90,90,Completed,No,houstonrep@gmail.com,90
+864,,CUST864,Female,51,Electronics,Debit Card,Houston,Warehouse Club,1,500,500,500,Completed,No,houstonrep@gmail.com,500
+702,,CUST702,Female,60,Clothing,Cash,San Francisco,Department Store,2,300,600,600,Pending,Yes,sanfranciscorep@gmail.com,600
+457,,CUST457,Female,58,Beauty,Credit Card,Atlanta,Convenience Store,3,300,900,900,Completed,Yes,atlantarep@gmail.com,900
+668,,CUST668,Female,62,Electronics,Debit Card,Atlanta,Warehouse Club,3,50,150,150,Completed,No,atlantarep@gmail.com,150
+295,,CUST295,Female,27,Beauty,Mobile Payment,Miami,Convenience Store,3,300,900,900,Completed,Yes,miamirep@gmail.com,900
+254,,CUST254,Male,41,Electronics,Mobile Payment,Seattle,Specialty Store,1,500,500,500,Completed,No,seattlerep@gmail.com,500
+850,,CUST850,Female,26,Beauty,Cash,Seattle,Warehouse Club,2,500,1000,1000,Completed,Yes,seattlerep@gmail.com,1000
+980,,CUST980,Female,31,Electronics,Debit Card,Dallas,Pharmacy,3,25,75,75,Completed,No,dallasrep@gmail.com,75
+541,,CUST541,Male,56,Beauty,Debit Card,New York,Department Store,1,500,500,500,Completed,No,newyorkrep@gmail.com,500
+262,,CUST262,Female,32,Beauty,Debit Card,Chicago,Warehouse Club,4,30,120,120,Completed,No,chicagorep@gmail.com,120
+467,,CUST467,Female,53,Electronics,Credit Card,Chicago,Convenience Store,3,50,150,150,Completed,No,chicagorep@gmail.com,150
+463,,CUST463,Female,54,Beauty,Debit Card,Dallas,Supermarket,3,500,1500,1500,Completed,Yes,dallasrep@gmail.com,1500
+667,2023-01-08,CUST667,Female,29,Electronics,Debit Card,Atlanta,Pharmacy,1,500,500,500,Completed,No,atlantarep@gmail.com,500
+598,2023-01-08,CUST598,Male,37,Beauty,Cash,Dallas,Department Store,4,30,120,120,Completed,No,dallasrep@gmail.com,120
+672,2023-01-08,CUST672,Female,34,Beauty,Mobile Payment,Los Angeles,Department Store,2,50,100,100,Completed,No,losangelesrep@gmail.com,100
+949,2023-02-08,CUST949,Female,41,Electronics,Credit Card,Los Angeles,Specialty Store,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+27,2023-03-08,CUST027,Female,38,Beauty,Debit Card,Dallas,Warehouse Club,2,25,50,50,Completed,No,dallasrep@gmail.com,50
+347,2023-03-08,CUST347,Male,42,Electronics,Debit Card,Miami,Convenience Store,1,25,25,25,Completed,No,miamirep@gmail.com,25
+687,2023-03-08,CUST687,Female,53,Electronics,Cash,Miami,Pharmacy,1,300,300,300,Completed,No,miamirep@gmail.com,300
+549,2023-04-08,CUST549,Female,50,Beauty,Cash,Atlanta,Supermarket,2,50,100,100,Completed,No,atlantarep@gmail.com,100
+730,2023-04-08,CUST730,Female,36,Clothing,Cash,Atlanta,Warehouse Club,2,25,50,50,Pending,No,atlantarep@gmail.com,50
+675,2023-04-08,CUST675,Female,45,Clothing,Credit Card,Chicago,Supermarket,2,30,60,60,Pending,No,chicagorep@gmail.com,60
+798,2023-04-08,CUST798,Male,61,Clothing,Debit Card,San Francisco,Pharmacy,1,50,50,50,Pending,No,sanfranciscorep@gmail.com,50
+140,2023-05-08,CUST140,Male,38,Electronics,Credit Card,Dallas,Specialty Store,1,30,30,30,Completed,No,dallasrep@gmail.com,30
+261,2023-05-08,CUST261,Male,21,Clothing,Debit Card,Dallas,Convenience Store,2,25,50,50,Pending,No,dallasrep@gmail.com,50
+308,2023-05-08,CUST308,Female,34,Beauty,Debit Card,Miami,Pharmacy,4,300,1200,1200,Completed,Yes,miamirep@gmail.com,1200
+13,2023-05-08,CUST013,Male,22,Electronics,Debit Card,New York,Pharmacy,3,500,1500,1500,Completed,Yes,newyorkrep@gmail.com,1500
+35,2023-05-08,CUST035,Female,58,Beauty,Credit Card,San Francisco,Supermarket,3,300,900,900,Completed,Yes,sanfranciscorep@gmail.com,900
+206,2023-05-08,CUST206,Male,61,Clothing,Mobile Payment,San Francisco,Specialty Store,1,25,25,25,Pending,No,sanfranciscorep@gmail.com,25
+279,2023-05-08,CUST279,Male,50,Clothing,Debit Card,San Francisco,Pharmacy,1,500,500,500,Pending,No,sanfranciscorep@gmail.com,500
+418,2023-05-08,CUST418,Female,60,Electronics,Credit Card,San Francisco,Supermarket,2,500,1000,1000,Completed,Yes,sanfranciscorep@gmail.com,1000
+875,2023-06-08,CUST875,Female,51,Electronics,Mobile Payment,Chicago,Department Store,4,500,2000,2000,Completed,Yes,chicagorep@gmail.com,2000
+612,2023-06-08,CUST612,Female,61,Electronics,Debit Card,San Francisco,Warehouse Club,1,500,500,500,Completed,No,sanfranciscorep@gmail.com,500
+430,2023-07-08,CUST430,Female,43,Electronics,Debit Card,Boston,Warehouse Club,3,300,900,900,Completed,Yes,bostonrep@gmail.com,900
+633,2023-07-08,CUST633,Male,39,Beauty,Cash,San Francisco,Specialty Store,4,30,120,120,Completed,No,sanfranciscorep@gmail.com,120
+790,2023-08-08,CUST790,Male,62,Clothing,Cash,Boston,Warehouse Club,1,25,25,25,Pending,No,bostonrep@gmail.com,25
+960,2023-08-08,CUST960,Male,59,Clothing,Credit Card,Houston,Convenience Store,2,30,60,60,Pending,No,houstonrep@gmail.com,60
+125,2023-08-08,CUST125,Male,48,Clothing,Debit Card,Miami,Supermarket,2,50,100,100,Pending,No,miamirep@gmail.com,100
+716,2023-08-08,CUST716,Female,60,Clothing,Cash,San Francisco,Warehouse Club,4,300,1200,1200,Pending,Yes,sanfranciscorep@gmail.com,1200
+259,2023-09-08,CUST259,Female,45,Clothing,Credit Card,Atlanta,Department Store,4,50,200,200,Pending,No,atlantarep@gmail.com,200
+563,2023-09-08,CUST563,Male,20,Clothing,Mobile Payment,Atlanta,Supermarket,2,30,60,60,Pending,No,atlantarep@gmail.com,60
+443,2023-09-08,CUST443,Male,29,Clothing,Credit Card,Houston,Warehouse Club,2,300,600,600,Pending,Yes,houstonrep@gmail.com,600
+529,2023-09-08,CUST529,Female,35,Clothing,Mobile Payment,Houston,Convenience Store,3,50,150,150,Pending,No,houstonrep@gmail.com,150
+801,2023-10-08,CUST801,Male,21,Clothing,Credit Card,Boston,Supermarket,4,50,200,200,Pending,No,bostonrep@gmail.com,200
+807,2023-11-08,CUST807,Female,50,Electronics,Mobile Payment,Dallas,Specialty Store,4,50,200,200,Completed,No,dallasrep@gmail.com,200
+508,2023-11-08,CUST508,Male,58,Beauty,Cash,Los Angeles,Specialty Store,2,300,600,600,Completed,Yes,losangelesrep@gmail.com,600
+160,2023-11-08,CUST160,Female,43,Clothing,Mobile Payment,Miami,Warehouse Club,2,50,100,100,Pending,No,miamirep@gmail.com,100
+816,2023-12-08,CUST816,Male,47,Beauty,Cash,Boston,Specialty Store,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+511,2023-12-08,CUST511,Male,45,Beauty,Cash,Chicago,Supermarket,2,50,100,100,Completed,No,chicagorep@gmail.com,100
+695,2023-12-08,CUST695,Female,22,Electronics,Credit Card,Miami,Convenience Store,3,50,150,150,Completed,No,miamirep@gmail.com,150
+521,2023-12-08,CUST521,Female,47,Clothing,Debit Card,San Francisco,Department Store,4,30,120,120,Pending,No,sanfranciscorep@gmail.com,120
+217,,CUST217,Female,35,Electronics,Mobile Payment,Dallas,Pharmacy,4,50,200,200,Completed,No,dallasrep@gmail.com,200
+384,,CUST384,Male,55,Clothing,Credit Card,Seattle,Convenience Store,1,500,500,500,Pending,No,seattlerep@gmail.com,500
+648,,CUST648,Male,53,Beauty,Debit Card,Boston,Specialty Store,4,300,1200,1200,Completed,Yes,bostonrep@gmail.com,1200
+926,,CUST926,Male,22,Electronics,Mobile Payment,Dallas,Convenience Store,1,30,30,30,Completed,No,dallasrep@gmail.com,30
+427,,CUST427,Male,25,Electronics,Debit Card,Atlanta,Specialty Store,1,25,25,25,Completed,No,atlantarep@gmail.com,25
+569,,CUST569,Male,52,Electronics,Cash,Dallas,Warehouse Club,4,50,200,200,Completed,No,dallasrep@gmail.com,200
+570,,CUST570,Male,49,Clothing,Mobile Payment,Dallas,Department Store,1,500,500,500,Pending,No,dallasrep@gmail.com,500
+285,,CUST285,Female,31,Electronics,Mobile Payment,Los Angeles,Pharmacy,1,25,25,25,Completed,No,losangelesrep@gmail.com,25
+957,,CUST957,Female,60,Electronics,Debit Card,Los Angeles,Convenience Store,4,30,120,120,Completed,No,losangelesrep@gmail.com,120
+630,,CUST630,Male,42,Clothing,Cash,San Francisco,Supermarket,2,50,100,100,Pending,No,sanfranciscorep@gmail.com,100
+635,,CUST635,Female,63,Electronics,Mobile Payment,Seattle,Convenience Store,3,300,900,900,Completed,Yes,seattlerep@gmail.com,900
+277,,CUST277,Male,36,Clothing,Cash,Chicago,Convenience Store,4,25,100,100,Pending,No,chicagorep@gmail.com,100
+859,,CUST859,Female,56,Electronics,Credit Card,New York,Specialty Store,3,500,1500,1500,Completed,Yes,newyorkrep@gmail.com,1500
+29,,CUST029,Female,42,Electronics,Credit Card,San Francisco,Specialty Store,1,30,30,30,Completed,No,sanfranciscorep@gmail.com,30
+823,,CUST823,Female,56,Electronics,Debit Card,Los Angeles,Supermarket,2,50,100,100,Completed,No,losangelesrep@gmail.com,100
+981,,CUST981,Female,30,Electronics,Debit Card,Los Angeles,Department Store,2,30,60,60,Completed,No,losangelesrep@gmail.com,60
+638,,CUST638,Male,46,Electronics,Credit Card,San Francisco,Supermarket,1,500,500,500,Completed,No,sanfranciscorep@gmail.com,500
+956,,CUST956,Male,30,Clothing,Cash,Seattle,Warehouse Club,3,500,1500,1500,Pending,Yes,seattlerep@gmail.com,1500
+219,,CUST219,Female,53,Electronics,Credit Card,Los Angeles,Department Store,3,30,90,90,Completed,No,losangelesrep@gmail.com,90
+725,,CUST725,Male,61,Electronics,Credit Card,Boston,Convenience Store,1,300,300,300,Completed,No,bostonrep@gmail.com,300
+73,,CUST073,Male,29,Electronics,Mobile Payment,Los Angeles,Specialty Store,3,30,90,90,Completed,No,losangelesrep@gmail.com,90
+162,,CUST162,Male,39,Clothing,Mobile Payment,Miami,Specialty Store,2,30,60,60,Pending,No,miamirep@gmail.com,60
+992,,CUST992,Female,57,Electronics,Cash,Miami,Warehouse Club,2,30,60,60,Completed,No,miamirep@gmail.com,60
+880,,CUST880,Male,22,Beauty,Cash,New York,Convenience Store,2,500,1000,1000,Completed,Yes,newyorkrep@gmail.com,1000
+306,,CUST306,Male,54,Electronics,Mobile Payment,Seattle,Supermarket,1,50,50,50,Completed,No,seattlerep@gmail.com,50
+597,,CUST597,Male,22,Beauty,Mobile Payment,Chicago,Specialty Store,4,300,1200,1200,Completed,Yes,chicagorep@gmail.com,1200
+622,,CUST622,Female,49,Beauty,Cash,Los Angeles,Warehouse Club,3,25,75,75,Completed,No,losangelesrep@gmail.com,75
+116,,CUST116,Female,23,Clothing,Cash,San Francisco,Pharmacy,1,30,30,30,Pending,No,sanfranciscorep@gmail.com,30
+368,,CUST368,Female,56,Clothing,Cash,San Francisco,Supermarket,5,300,1500,1500,Pending,Yes,sanfranciscorep@gmail.com,1500
+364,,CUST364,Female,19,Beauty,Credit Card,Seattle,Convenience Store,1,500,500,500,Completed,No,seattlerep@gmail.com,500
+479,,CUST479,Male,52,Electronics,Debit Card,Chicago,Department Store,4,300,1200,1200,Completed,Yes,chicagorep@gmail.com,1200
+804,,CUST804,Male,42,Electronics,Mobile Payment,Dallas,Specialty Store,1,30,30,30,Completed,No,dallasrep@gmail.com,30
+50,,CUST050,Female,27,Beauty,Cash,Houston,Warehouse Club,3,25,75,75,Completed,No,houstonrep@gmail.com,75
+282,,CUST282,Female,64,Electronics,Mobile Payment,Dallas,Department Store,4,50,200,200,Completed,No,dallasrep@gmail.com,200
+718,,CUST718,Female,59,Beauty,Cash,Dallas,Convenience Store,3,25,75,75,Completed,No,dallasrep@gmail.com,75
+92,,CUST092,Female,51,Electronics,Credit Card,Miami,Convenience Store,4,30,120,120,Completed,No,miamirep@gmail.com,120
+617,,CUST617,Male,34,Electronics,Credit Card,Atlanta,Pharmacy,1,30,30,30,Completed,No,atlantarep@gmail.com,30
+825,,CUST825,Female,46,Beauty,Debit Card,Miami,Pharmacy,1,25,25,25,Completed,No,miamirep@gmail.com,25
+624,,CUST624,Female,34,Beauty,Mobile Payment,Seattle,Specialty Store,3,300,900,900,Completed,Yes,seattlerep@gmail.com,900
+568,,CUST568,Female,51,Electronics,Cash,Atlanta,Supermarket,1,300,300,300,Completed,No,atlantarep@gmail.com,300
+756,,CUST756,Female,62,Electronics,Credit Card,Boston,Pharmacy,4,300,1200,1200,Completed,Yes,bostonrep@gmail.com,1200
+815,,CUST815,Female,51,Clothing,Debit Card,Dallas,Pharmacy,3,25,75,75,Pending,No,dallasrep@gmail.com,75
+671,,CUST671,Male,62,Electronics,Credit Card,San Francisco,Specialty Store,3,50,150,150,Completed,No,sanfranciscorep@gmail.com,150
+704,,CUST704,Female,62,Clothing,Credit Card,Houston,Convenience Store,3,30,90,90,Pending,No,houstonrep@gmail.com,90
+263,,CUST263,Male,23,Beauty,Credit Card,Los Angeles,Supermarket,2,30,60,60,Completed,No,losangelesrep@gmail.com,60
+146,,CUST146,Male,38,Clothing,Mobile Payment,Seattle,Convenience Store,4,50,200,200,Pending,No,seattlerep@gmail.com,200
+476,,CUST476,Female,27,Clothing,Mobile Payment,Atlanta,Convenience Store,4,500,2000,2000,Pending,Yes,atlantarep@gmail.com,2000
+733,,CUST733,Male,34,Beauty,Cash,Los Angeles,Pharmacy,1,30,30,30,Completed,No,losangelesrep@gmail.com,30
+984,,CUST984,Male,56,Clothing,Debit Card,San Francisco,Specialty Store,1,500,500,500,Pending,No,sanfranciscorep@gmail.com,500
+924,,CUST924,Male,55,Beauty,Credit Card,Seattle,Supermarket,2,50,100,100,Completed,No,seattlerep@gmail.com,100
+871,,CUST871,Male,62,Beauty,Credit Card,Chicago,Convenience Store,2,30,60,60,Completed,No,chicagorep@gmail.com,60
+253,,CUST253,Female,53,Clothing,Debit Card,San Francisco,Warehouse Club,4,500,2000,2000,Pending,Yes,sanfranciscorep@gmail.com,2000
+751,,CUST751,Female,42,Clothing,Debit Card,San Francisco,Pharmacy,2,25,50,50,Pending,No,sanfranciscorep@gmail.com,50
+251,,CUST251,Female,57,Beauty,Credit Card,Seattle,Supermarket,4,50,200,200,Completed,No,seattlerep@gmail.com,200
+574,,CUST574,Female,63,Electronics,Debit Card,Seattle,Specialty Store,2,25,50,50,Completed,No,seattlerep@gmail.com,50
+637,2023-01-09,CUST637,Male,43,Clothing,Credit Card,Houston,Specialty Store,2,300,600,600,Pending,Yes,houstonrep@gmail.com,600
+855,2023-01-09,CUST855,Male,54,Beauty,Credit Card,Houston,Warehouse Club,1,25,25,25,Completed,No,houstonrep@gmail.com,25
+200,2023-01-09,CUST200,Male,27,Beauty,Cash,Miami,Pharmacy,3,50,150,150,Completed,No,miamirep@gmail.com,150
+594,2023-01-09,CUST594,Female,19,Electronics,Cash,San Francisco,Specialty Store,2,300,600,600,Completed,Yes,sanfranciscorep@gmail.com,600
+325,2023-02-09,CUST325,Female,52,Electronics,Cash,Chicago,Warehouse Club,2,25,50,50,Completed,No,chicagorep@gmail.com,50
+682,2023-02-09,CUST682,Male,46,Beauty,Debit Card,Chicago,Pharmacy,4,300,1200,1200,Completed,Yes,chicagorep@gmail.com,1200
+931,2023-02-09,CUST931,Male,30,Beauty,Credit Card,Chicago,Specialty Store,4,30,120,120,Completed,No,chicagorep@gmail.com,120
+925,2023-03-09,CUST925,Male,25,Electronics,Credit Card,Dallas,Pharmacy,1,300,300,300,Completed,No,dallasrep@gmail.com,300
+297,2023-04-09,CUST297,Female,40,Electronics,Debit Card,Los Angeles,Convenience Store,2,500,1000,1000,Completed,Yes,losangelesrep@gmail.com,1000
+894,2023-05-09,CUST894,Male,52,Electronics,Mobile Payment,New York,Convenience Store,1,30,30,30,Completed,No,newyorkrep@gmail.com,30
+814,2023-05-09,CUST814,Female,59,Clothing,Mobile Payment,San Francisco,Pharmacy,1,500,500,500,Pending,No,sanfranciscorep@gmail.com,500
+194,2023-06-09,CUST194,Male,55,Clothing,Debit Card,Boston,Department Store,4,50,200,200,Pending,No,bostonrep@gmail.com,200
+296,2023-06-09,CUST296,Female,22,Clothing,Credit Card,Dallas,Pharmacy,4,300,1200,1200,Pending,Yes,dallasrep@gmail.com,1200
+696,2023-06-09,CUST696,Female,50,Clothing,Cash,Dallas,Department Store,4,50,200,200,Pending,No,dallasrep@gmail.com,200
+245,2023-06-09,CUST245,Male,47,Clothing,Debit Card,Los Angeles,Supermarket,3,30,90,90,Pending,No,losangelesrep@gmail.com,90
+644,2023-06-09,CUST644,Male,23,Beauty,Debit Card,New York,Pharmacy,3,25,75,75,Completed,No,newyorkrep@gmail.com,75
+835,2023-07-09,CUST835,Male,37,Clothing,Cash,Boston,Pharmacy,4,50,200,200,Pending,No,bostonrep@gmail.com,200
+692,2023-07-09,CUST692,Female,64,Clothing,Credit Card,Chicago,Warehouse Club,2,50,100,100,Pending,No,chicagorep@gmail.com,100
+312,2023-07-09,CUST312,Male,41,Clothing,Debit Card,New York,Department Store,4,30,120,120,Pending,No,newyorkrep@gmail.com,120
+851,2023-08-09,CUST851,Male,32,Electronics,Cash,Chicago,Warehouse Club,2,25,50,50,Completed,No,chicagorep@gmail.com,50
+413,2023-08-09,CUST413,Female,44,Beauty,Credit Card,Los Angeles,Specialty Store,3,25,75,75,Completed,No,losangelesrep@gmail.com,75
+183,2023-08-09,CUST183,Female,43,Beauty,Credit Card,New York,Supermarket,3,300,900,900,Completed,Yes,newyorkrep@gmail.com,900
+799,2023-08-09,CUST799,Male,56,Electronics,Cash,San Francisco,Specialty Store,2,50,100,100,Completed,No,sanfranciscorep@gmail.com,100
+858,2023-09-09,CUST858,Male,23,Electronics,Mobile Payment,Dallas,Supermarket,2,50,100,100,Completed,No,dallasrep@gmail.com,100
+919,2023-09-09,CUST919,Female,22,Beauty,Cash,New York,Warehouse Club,2,25,50,50,Completed,No,newyorkrep@gmail.com,50
+935,2023-09-09,CUST935,Female,34,Beauty,Mobile Payment,San Francisco,Warehouse Club,1,50,50,50,Completed,No,sanfranciscorep@gmail.com,50
+132,2023-10-09,CUST132,Male,42,Electronics,Mobile Payment,Boston,Department Store,4,50,200,200,Completed,No,bostonrep@gmail.com,200
+604,2023-11-09,CUST604,Female,29,Electronics,Cash,Atlanta,Convenience Store,4,50,200,200,Completed,No,atlantarep@gmail.com,200
+832,2023-11-09,CUST832,Male,47,Beauty,Credit Card,Dallas,Specialty Store,4,500,2000,2000,Completed,Yes,dallasrep@gmail.com,2000
+113,,CUST113,Female,41,Electronics,Cash,Atlanta,Pharmacy,2,25,50,50,Completed,No,atlantarep@gmail.com,50
+165,,CUST165,Female,60,Clothing,Cash,Los Angeles,Department Store,4,300,1200,1200,Pending,Yes,losangelesrep@gmail.com,1200
+326,,CUST326,Female,18,Clothing,Debit Card,Miami,Warehouse Club,3,25,75,75,Pending,No,miamirep@gmail.com,75
+632,,CUST632,Female,26,Electronics,Mobile Payment,Dallas,Pharmacy,4,25,100,100,Completed,No,dallasrep@gmail.com,100
+19,,CUST019,Female,62,Clothing,Mobile Payment,New York,Warehouse Club,2,25,50,50,Pending,No,newyorkrep@gmail.com,50
+412,,CUST412,Female,19,Electronics,Mobile Payment,New York,Specialty Store,4,500,2000,2000,Completed,Yes,newyorkrep@gmail.com,2000
+167,,CUST167,Female,43,Clothing,Cash,Dallas,Department Store,3,50,150,150,Pending,No,dallasrep@gmail.com,150
+172,,CUST172,Male,32,Beauty,Mobile Payment,Los Angeles,Warehouse Club,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+375,,CUST375,Male,32,Clothing,Credit Card,Miami,Pharmacy,1,50,50,50,Pending,No,miamirep@gmail.com,50
+794,,CUST794,Female,60,Beauty,Mobile Payment,Miami,Specialty Store,1,300,300,300,Completed,No,miamirep@gmail.com,300
+538,,CUST538,Male,18,Clothing,Mobile Payment,New York,Warehouse Club,3,50,150,150,Pending,No,newyorkrep@gmail.com,150
+330,,CUST330,Female,25,Beauty,Debit Card,Atlanta,Pharmacy,4,50,200,200,Completed,No,atlantarep@gmail.com,200
+494,,CUST494,Female,42,Beauty,Credit Card,Los Angeles,Supermarket,4,50,200,200,Completed,No,losangelesrep@gmail.com,200
+131,,CUST131,Female,21,Beauty,Credit Card,Miami,Supermarket,2,300,600,600,Completed,Yes,miamirep@gmail.com,600
+513,,CUST513,Male,24,Electronics,Mobile Payment,Atlanta,Convenience Store,4,25,100,100,Completed,No,atlantarep@gmail.com,100
+573,,CUST573,Male,49,Beauty,Credit Card,Chicago,Warehouse Club,2,30,60,60,Completed,No,chicagorep@gmail.com,60
+579,,CUST579,Female,38,Electronics,Mobile Payment,Chicago,Supermarket,1,30,30,30,Completed,No,chicagorep@gmail.com,30
+241,,CUST241,Female,23,Electronics,Cash,Dallas,Department Store,3,25,75,75,Completed,No,dallasrep@gmail.com,75
+218,,CUST218,Male,64,Beauty,Cash,Boston,Department Store,3,30,90,90,Completed,No,bostonrep@gmail.com,90
+846,,CUST846,Male,42,Beauty,Credit Card,New York,Pharmacy,1,50,50,50,Completed,No,newyorkrep@gmail.com,50
+616,,CUST616,Male,41,Clothing,Credit Card,San Francisco,Warehouse Club,2,50,100,100,Pending,No,sanfranciscorep@gmail.com,100
+643,,CUST643,Female,28,Electronics,Credit Card,Houston,Warehouse Club,3,30,90,90,Completed,No,houstonrep@gmail.com,90
+523,,CUST523,Female,62,Electronics,Credit Card,Seattle,Supermarket,1,300,300,300,Completed,No,seattlerep@gmail.com,300
+809,,CUST809,Female,62,Beauty,Cash,Houston,Convenience Store,2,50,100,100,Completed,No,houstonrep@gmail.com,100
+351,,CUST351,Female,56,Clothing,Credit Card,Miami,Department Store,3,30,90,90,Pending,No,miamirep@gmail.com,90
+954,,CUST954,Female,50,Electronics,Mobile Payment,San Francisco,Convenience Store,3,300,900,900,Completed,Yes,sanfranciscorep@gmail.com,900
+897,,CUST897,Female,64,Electronics,Cash,New York,Department Store,2,50,100,100,Completed,No,newyorkrep@gmail.com,100
+147,,CUST147,Male,23,Electronics,Debit Card,Miami,Pharmacy,1,300,300,300,Completed,No,miamirep@gmail.com,300
+390,,CUST390,Male,39,Electronics,Debit Card,Miami,Specialty Store,2,50,100,100,Completed,No,miamirep@gmail.com,100
+204,,CUST204,Male,39,Beauty,Credit Card,Seattle,Warehouse Club,1,25,25,25,Completed,No,seattlerep@gmail.com,25
+179,,CUST179,Male,31,Electronics,Debit Card,Chicago,Specialty Store,1,300,300,300,Completed,No,chicagorep@gmail.com,300
+327,,CUST327,Male,57,Electronics,Mobile Payment,Chicago,Pharmacy,3,50,150,150,Completed,No,chicagorep@gmail.com,150
+626,,CUST626,Female,26,Clothing,Mobile Payment,Chicago,Specialty Store,4,500,2000,2000,Pending,Yes,chicagorep@gmail.com,2000
+873,,CUST873,Female,27,Electronics,Debit Card,San Francisco,Pharmacy,4,25,100,100,Completed,No,sanfranciscorep@gmail.com,100
+196,,CUST196,Female,32,Clothing,Mobile Payment,Miami,Supermarket,3,300,900,900,Pending,Yes,miamirep@gmail.com,900
+789,,CUST789,Female,61,Clothing,Cash,Seattle,Warehouse Club,4,500,2000,2000,Pending,Yes,seattlerep@gmail.com,2000
+909,2023-01-10,CUST909,Male,26,Electronics,Cash,Chicago,Warehouse Club,1,300,300,300,Completed,No,chicagorep@gmail.com,300
+707,2023-01-10,CUST707,Female,26,Clothing,Mobile Payment,Miami,Convenience Store,1,500,500,500,Pending,No,miamirep@gmail.com,500
+89,2023-01-10,CUST089,Female,55,Electronics,Cash,Seattle,Department Store,4,500,2000,2000,Completed,Yes,seattlerep@gmail.com,2000
+276,2023-02-10,CUST276,Female,21,Beauty,Cash,Dallas,Pharmacy,6,25,150,150,Completed,No,dallasrep@gmail.com,150
+889,2023-02-10,CUST889,Female,35,Electronics,Debit Card,Houston,Pharmacy,1,50,50,50,Completed,No,houstonrep@gmail.com,50
+154,2023-02-10,CUST154,Male,51,Electronics,Cash,New York,Pharmacy,3,300,900,900,Completed,Yes,newyorkrep@gmail.com,900
+51,2023-02-10,CUST051,Male,27,Beauty,Mobile Payment,San Francisco,Supermarket,3,25,75,75,Completed,No,sanfranciscorep@gmail.com,75
+497,2023-02-10,CUST497,Male,41,Clothing,Debit Card,San Francisco,Convenience Store,4,30,120,120,Pending,No,sanfranciscorep@gmail.com,120
+373,2023-03-10,CUST373,Female,25,Beauty,Cash,Boston,Pharmacy,2,300,600,600,Completed,Yes,bostonrep@gmail.com,600
+524,2023-03-10,CUST524,Male,46,Beauty,Credit Card,Boston,Warehouse Club,4,300,1200,1200,Completed,Yes,bostonrep@gmail.com,1200
+813,2023-03-10,CUST813,Male,52,Electronics,Debit Card,Boston,Warehouse Club,3,50,150,150,Completed,No,bostonrep@gmail.com,150
+122,2023-03-10,CUST122,Male,64,Electronics,Debit Card,Los Angeles,Convenience Store,4,30,120,120,Completed,No,losangelesrep@gmail.com,120
+688,2023-03-10,CUST688,Male,56,Clothing,Cash,San Francisco,Pharmacy,4,25,100,100,Pending,No,sanfranciscorep@gmail.com,100
+178,2023-04-10,CUST178,Male,40,Clothing,Credit Card,Chicago,Pharmacy,2,30,60,60,Pending,No,chicagorep@gmail.com,60
+208,2023-04-10,CUST208,Female,34,Electronics,Mobile Payment,Chicago,Supermarket,4,50,200,200,Completed,No,chicagorep@gmail.com,200
+656,2023-04-10,CUST656,Male,29,Beauty,Mobile Payment,Chicago,Supermarket,3,30,90,90,Completed,No,chicagorep@gmail.com,90
+247,2023-04-10,CUST247,Male,41,Electronics,Mobile Payment,Miami,Department Store,2,30,60,60,Completed,No,miamirep@gmail.com,60
+290,2023-04-10,CUST290,Female,30,Beauty,Debit Card,Miami,Specialty Store,2,300,600,600,Completed,Yes,miamirep@gmail.com,600
+735,2023-04-10,CUST735,Female,64,Clothing,Mobile Payment,Seattle,Supermarket,4,500,2000,2000,Pending,Yes,seattlerep@gmail.com,2000
+319,2023-05-10,CUST319,Male,31,Clothing,Mobile Payment,Houston,Supermarket,1,500,500,500,Pending,No,houstonrep@gmail.com,500
+670,2023-05-10,CUST670,Male,27,Beauty,Debit Card,Los Angeles,Department Store,1,30,30,30,Completed,No,losangelesrep@gmail.com,30
+385,2023-06-10,CUST385,Male,50,Electronics,Credit Card,Houston,Convenience Store,3,500,1500,1500,Completed,Yes,houstonrep@gmail.com,1500
+10,2023-07-10,CUST010,Female,52,Clothing,Mobile Payment,Boston,Convenience Store,10,50,500,500,Pending,No,bostonrep@gmail.com,500
+689,2023-07-10,CUST689,Male,57,Electronics,Cash,Boston,Warehouse Club,2,50,100,100,Completed,No,bostonrep@gmail.com,100
+437,2023-07-10,CUST437,Female,35,Electronics,Debit Card,Miami,Department Store,4,300,1200,1200,Completed,Yes,miamirep@gmail.com,1200
+26,2023-07-10,CUST026,Female,28,Electronics,Credit Card,New York,Convenience Store,2,500,1000,1000,Completed,Yes,newyorkrep@gmail.com,1000
+634,2023-08-10,CUST634,Male,60,Electronics,Cash,Houston,Convenience Store,4,500,2000,2000,Completed,Yes,houstonrep@gmail.com,2000
+558,2023-08-10,CUST558,Female,41,Clothing,Cash,San Francisco,Pharmacy,1,25,25,25,Pending,No,sanfranciscorep@gmail.com,25
+876,2023-09-10,CUST876,Male,43,Clothing,Debit Card,Atlanta,Convenience Store,4,30,120,120,Pending,No,atlantarep@gmail.com,120
+201,2023-09-10,CUST201,Male,56,Electronics,Debit Card,Boston,Department Store,1,25,25,25,Completed,No,bostonrep@gmail.com,25
+286,2023-09-10,CUST286,Male,55,Electronics,Debit Card,Miami,Supermarket,2,25,50,50,Completed,No,miamirep@gmail.com,50
+428,2023-10-10,CUST428,Female,40,Electronics,Debit Card,Boston,Specialty Store,4,50,200,200,Completed,No,bostonrep@gmail.com,200
+55,2023-10-10,CUST055,Male,31,Beauty,Debit Card,Los Angeles,Specialty Store,4,30,120,120,Completed,No,losangelesrep@gmail.com,120
+441,2023-10-10,CUST441,Male,57,Beauty,Debit Card,San Francisco,Convenience Store,4,300,1200,1200,Completed,Yes,sanfranciscorep@gmail.com,1200
+976,2023-10-10,CUST976,Female,48,Beauty,Debit Card,Seattle,Pharmacy,2,300,600,600,Completed,Yes,seattlerep@gmail.com,600
+546,2023-11-10,CUST546,Female,36,Electronics,Credit Card,Atlanta,Supermarket,4,50,200,200,Completed,No,atlantarep@gmail.com,200
+149,2023-11-10,CUST149,Male,22,Clothing,Debit Card,Chicago,Department Store,3,25,75,75,Pending,No,chicagorep@gmail.com,75
+401,2023-11-10,CUST401,Female,62,Clothing,Credit Card,Houston,Supermarket,1,300,300,300,Pending,No,houstonrep@gmail.com,300
+872,2023-11-10,CUST872,Female,63,Beauty,Debit Card,Miami,Warehouse Club,9,25,225,225,Completed,No,miamirep@gmail.com,225
+914,2023-11-10,CUST914,Female,59,Electronics,Cash,Miami,Specialty Store,1,500,500,500,Completed,No,miamirep@gmail.com,500
+393,2023-11-10,CUST393,Female,22,Beauty,Mobile Payment,San Francisco,Department Store,2,500,1000,1000,Completed,Yes,sanfranciscorep@gmail.com,1000
+227,2023-11-10,CUST227,Male,36,Electronics,Debit Card,Seattle,Warehouse Club,2,50,100,100,Completed,No,seattlerep@gmail.com,100
+310,2023-12-10,CUST310,Female,28,Beauty,Mobile Payment,Chicago,Warehouse Club,1,25,25,25,Completed,No,chicagorep@gmail.com,25
+852,2023-12-10,CUST852,Female,41,Clothing,Debit Card,Miami,Pharmacy,1,300,300,300,Pending,No,miamirep@gmail.com,300
+844,2023-12-10,CUST844,Male,35,Clothing,Credit Card,Seattle,Supermarket,3,50,150,150,Pending,No,seattlerep@gmail.com,150
+948,,CUST948,Female,23,Electronics,Cash,Los Angeles,Supermarket,3,25,75,75,Completed,No,losangelesrep@gmail.com,75
+619,,CUST619,Male,47,Electronics,Mobile Payment,New York,Pharmacy,4,25,100,100,Completed,No,newyorkrep@gmail.com,100
+97,,CUST097,Female,51,Beauty,Cash,Seattle,Pharmacy,2,500,1000,1000,Completed,Yes,seattlerep@gmail.com,1000
+456,,CUST456,Male,57,Electronics,Debit Card,Boston,Warehouse Club,2,30,60,60,Completed,No,bostonrep@gmail.com,60
+627,,CUST627,Male,57,Clothing,Cash,Los Angeles,Pharmacy,1,50,50,50,Pending,No,losangelesrep@gmail.com,50
+431,,CUST431,Male,63,Electronics,Debit Card,Chicago,Department Store,4,300,1200,1200,Completed,Yes,chicagorep@gmail.com,1200
+22,,CUST022,Male,18,Clothing,Credit Card,Miami,Department Store,2,50,100,100,Pending,No,miamirep@gmail.com,100
+121,,CUST121,Female,28,Electronics,Mobile Payment,New York,Department Store,4,50,200,200,Completed,No,newyorkrep@gmail.com,200
+943,,CUST943,Female,57,Clothing,Debit Card,Atlanta,Warehouse Club,4,300,1200,1200,Pending,Yes,atlantarep@gmail.com,1200
+711,,CUST711,Male,26,Electronics,Debit Card,Houston,Department Store,3,500,1500,1500,Completed,Yes,houstonrep@gmail.com,1500
+754,,CUST754,Female,43,Electronics,Debit Card,Los Angeles,Department Store,4,25,100,100,Completed,No,losangelesrep@gmail.com,100
+370,,CUST370,Male,23,Electronics,Debit Card,Miami,Warehouse Club,2,30,60,60,Completed,No,miamirep@gmail.com,60
+350,,CUST350,Male,25,Beauty,Cash,Boston,Specialty Store,3,25,75,75,Completed,No,bostonrep@gmail.com,75
+786,,CUST786,Male,48,Clothing,Credit Card,Boston,Supermarket,4,25,100,100,Pending,No,bostonrep@gmail.com,100
+191,,CUST191,Male,64,Beauty,Mobile Payment,Chicago,Specialty Store,1,25,25,25,Completed,No,chicagorep@gmail.com,25
+109,,CUST109,Female,34,Electronics,Credit Card,Seattle,Supermarket,4,500,2000,2000,Completed,Yes,seattlerep@gmail.com,2000
+340,,CUST340,Female,36,Clothing,Credit Card,Chicago,Convenience Store,4,300,1200,1200,Pending,Yes,chicagorep@gmail.com,1200
+555,,CUST555,Male,25,Beauty,Credit Card,Chicago,Department Store,1,300,300,300,Completed,No,chicagorep@gmail.com,300
+826,,CUST826,Female,46,Clothing,Cash,Chicago,Department Store,1,300,300,300,Pending,No,chicagorep@gmail.com,300
+962,,CUST962,Male,44,Clothing,Credit Card,Houston,Convenience Store,2,30,60,60,Pending,No,houstonrep@gmail.com,60
+249,,CUST249,Male,20,Clothing,Cash,Miami,Pharmacy,1,50,50,50,Pending,No,miamirep@gmail.com,50
+922,,CUST922,Male,41,Electronics,Mobile Payment,Chicago,Supermarket,1,50,50,50,Completed,No,chicagorep@gmail.com,50
+600,,CUST600,Female,59,Beauty,Credit Card,Boston,Department Store,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+770,,CUST770,Male,32,Clothing,Debit Card,Los Angeles,Supermarket,1,50,50,50,Pending,No,losangelesrep@gmail.com,50
+680,,CUST680,Female,53,Clothing,Credit Card,New York,Department Store,3,300,900,900,Pending,Yes,newyorkrep@gmail.com,900
+60,,CUST060,Male,30,Beauty,Debit Card,Atlanta,Specialty Store,3,50,150,150,Completed,No,atlantarep@gmail.com,150
+250,,CUST250,Male,48,Electronics,Cash,Atlanta,Specialty Store,1,50,50,50,Completed,No,atlantarep@gmail.com,50
+516,,CUST516,Male,30,Beauty,Mobile Payment,Seattle,Specialty Store,4,25,100,100,Completed,No,seattlerep@gmail.com,100
+937,,CUST937,Female,62,Beauty,Cash,Seattle,Specialty Store,1,500,500,500,Completed,No,seattlerep@gmail.com,500
+564,,CUST564,Male,50,Electronics,Credit Card,Boston,Convenience Store,2,50,100,100,Completed,No,bostonrep@gmail.com,100
+318,,CUST318,Male,61,Clothing,Credit Card,Chicago,Specialty Store,1,25,25,25,Pending,No,chicagorep@gmail.com,25
+767,,CUST767,Male,39,Beauty,Mobile Payment,Los Angeles,Supermarket,3,25,75,75,Completed,No,losangelesrep@gmail.com,75
+342,,CUST342,Female,43,Clothing,Credit Card,Miami,Department Store,4,500,2000,2000,Pending,Yes,miamirep@gmail.com,2000
+869,,CUST869,Male,37,Beauty,Credit Card,Los Angeles,Specialty Store,9,500,4500,4500,Completed,Yes,losangelesrep@gmail.com,4500
+503,,CUST503,Male,45,Beauty,Mobile Payment,San Francisco,Department Store,4,500,2000,2000,Completed,Yes,sanfranciscorep@gmail.com,2000
+440,,CUST440,Male,64,Clothing,Mobile Payment,Atlanta,Convenience Store,2,300,600,600,Pending,Yes,atlantarep@gmail.com,600
+126,,CUST126,Female,28,Clothing,Cash,Chicago,Convenience Store,3,30,90,90,Pending,No,chicagorep@gmail.com,90
+349,,CUST349,Female,57,Beauty,Debit Card,Miami,Department Store,1,50,50,50,Completed,No,miamirep@gmail.com,50
+677,,CUST677,Female,19,Beauty,Credit Card,Atlanta,Specialty Store,3,500,1500,1500,Completed,Yes,atlantarep@gmail.com,1500
+124,,CUST124,Male,33,Clothing,Credit Card,Miami,Department Store,4,500,2000,2000,Pending,Yes,miamirep@gmail.com,2000
+324,,CUST324,Female,52,Electronics,Debit Card,Seattle,Convenience Store,3,50,150,150,Completed,No,seattlerep@gmail.com,150
+229,,CUST229,Male,58,Beauty,Cash,Atlanta,Convenience Store,3,30,90,90,Completed,No,atlantarep@gmail.com,90
+896,,CUST896,Female,30,Electronics,Debit Card,Atlanta,Convenience Store,2,25,50,50,Completed,No,atlantarep@gmail.com,50
+959,,CUST959,Female,42,Electronics,Debit Card,Chicago,Convenience Store,2,30,60,60,Completed,No,chicagorep@gmail.com,60
+30,,CUST030,Female,39,Beauty,Mobile Payment,Houston,Convenience Store,3,300,900,900,Completed,Yes,houstonrep@gmail.com,900
+998,,CUST998,Female,23,Beauty,Mobile Payment,Los Angeles,Convenience Store,4,25,100,100,Completed,No,losangelesrep@gmail.com,100
+226,,CUST226,Female,61,Clothing,Credit Card,San Francisco,Convenience Store,1,50,50,50,Pending,No,sanfranciscorep@gmail.com,50
+12,,CUST012,Male,35,Beauty,Mobile Payment,New York,Specialty Store,3,25,75,75,Completed,No,newyorkrep@gmail.com,75
+817,,CUST817,Male,30,Beauty,Debit Card,Atlanta,Specialty Store,4,50,200,200,Completed,No,atlantarep@gmail.com,200
+776,,CUST776,Male,35,Clothing,Cash,Boston,Supermarket,3,30,90,90,Pending,No,bostonrep@gmail.com,90
+710,,CUST710,Female,26,Electronics,Mobile Payment,Houston,Specialty Store,3,500,1500,1500,Completed,Yes,houstonrep@gmail.com,1500
+628,2023-01-11,CUST628,Female,19,Beauty,Credit Card,Atlanta,Department Store,4,50,200,200,Completed,No,atlantarep@gmail.com,200
+334,2023-01-11,CUST334,Male,31,Electronics,Debit Card,Houston,Specialty Store,3,300,900,900,Completed,Yes,houstonrep@gmail.com,900
+343,2023-01-11,CUST343,Male,21,Electronics,Mobile Payment,Houston,Convenience Store,2,25,50,50,Completed,No,houstonrep@gmail.com,50
+983,2023-01-11,CUST983,Female,29,Clothing,Credit Card,San Francisco,Pharmacy,1,300,300,300,Pending,No,sanfranciscorep@gmail.com,300
+898,2023-02-11,CUST898,Female,42,Clothing,Debit Card,Atlanta,Supermarket,9,30,270,270,Pending,No,atlantarep@gmail.com,270
+951,2023-02-11,CUST951,Male,33,Beauty,Mobile Payment,Houston,Supermarket,2,50,100,100,Completed,No,houstonrep@gmail.com,100
+841,2023-02-11,CUST841,Male,31,Electronics,Cash,Los Angeles,Pharmacy,4,25,100,100,Completed,No,losangelesrep@gmail.com,100
+507,2023-02-11,CUST507,Female,37,Electronics,Mobile Payment,New York,Supermarket,3,500,1500,1500,Completed,Yes,newyorkrep@gmail.com,1500
+141,2023-02-11,CUST141,Female,22,Electronics,Mobile Payment,San Francisco,Pharmacy,1,50,50,50,Completed,No,sanfranciscorep@gmail.com,50
+145,2023-02-11,CUST145,Female,39,Clothing,Cash,San Francisco,Pharmacy,3,25,75,75,Pending,No,sanfranciscorep@gmail.com,75
+181,2023-03-11,CUST181,Male,19,Electronics,Mobile Payment,Los Angeles,Supermarket,4,300,1200,1200,Completed,Yes,losangelesrep@gmail.com,1200
+784,2023-04-11,CUST784,Female,34,Electronics,Debit Card,Chicago,Supermarket,1,500,500,500,Completed,No,chicagorep@gmail.com,500
+20,2023-05-11,CUST020,Male,22,Clothing,Debit Card,Chicago,Department Store,3,300,900,900,Pending,Yes,chicagorep@gmail.com,900
+690,2023-05-11,CUST690,Female,52,Clothing,Mobile Payment,Dallas,Specialty Store,3,300,900,900,Pending,Yes,dallasrep@gmail.com,900
+47,2023-06-11,CUST047,Female,40,Beauty,Cash,Dallas,Convenience Store,3,500,1500,1500,Completed,Yes,dallasrep@gmail.com,1500
+405,2023-06-11,CUST405,Female,25,Clothing,Mobile Payment,Los Angeles,Supermarket,4,300,1200,1200,Pending,Yes,losangelesrep@gmail.com,1200
+761,2023-07-11,CUST761,Female,33,Clothing,Mobile Payment,Atlanta,Warehouse Club,1,500,500,500,Pending,No,atlantarep@gmail.com,500
+565,2023-07-11,CUST565,Female,45,Beauty,Mobile Payment,Dallas,Convenience Store,2,30,60,60,Completed,No,dallasrep@gmail.com,60
+950,2023-07-11,CUST950,Male,36,Clothing,Credit Card,Dallas,Supermarket,3,300,900,900,Pending,Yes,dallasrep@gmail.com,900
+512,2023-07-11,CUST512,Female,57,Beauty,Cash,Houston,Warehouse Club,1,25,25,25,Completed,No,houstonrep@gmail.com,25
+762,2023-07-11,CUST762,Female,24,Electronics,Debit Card,Los Angeles,Supermarket,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+205,2023-07-11,CUST205,Female,43,Clothing,Cash,Miami,Warehouse Club,1,25,25,25,Pending,No,miamirep@gmail.com,25
+86,2023-08-11,CUST086,Male,19,Beauty,Credit Card,Dallas,Supermarket,3,30,90,90,Completed,No,dallasrep@gmail.com,90
+173,2023-08-11,CUST173,Male,64,Electronics,Credit Card,Seattle,Pharmacy,4,30,120,120,Completed,No,seattlerep@gmail.com,120
+965,2023-09-11,CUST965,Male,22,Clothing,Credit Card,Los Angeles,Specialty Store,4,50,200,200,Pending,No,losangelesrep@gmail.com,200
+827,2023-09-11,CUST827,Male,61,Beauty,Cash,New York,Pharmacy,3,300,900,900,Completed,Yes,newyorkrep@gmail.com,900
+595,2023-09-11,CUST595,Female,18,Clothing,Cash,San Francisco,Department Store,4,500,2000,2000,Pending,Yes,sanfranciscorep@gmail.com,2000
+388,2023-10-11,CUST388,Male,50,Electronics,Debit Card,Chicago,Pharmacy,1,25,25,25,Completed,No,chicagorep@gmail.com,25
+631,2023-10-11,CUST631,Male,56,Electronics,Cash,San Francisco,Convenience Store,3,30,90,90,Completed,No,sanfranciscorep@gmail.com,90
+812,2023-12-11,CUST812,Male,19,Electronics,Debit Card,San Francisco,Department Store,3,25,75,75,Completed,No,sanfranciscorep@gmail.com,75
+554,2023-12-11,CUST554,Female,46,Beauty,Credit Card,Seattle,Convenience Store,3,50,150,150,Completed,No,seattlerep@gmail.com,150
+58,,CUST058,Male,18,Clothing,Cash,Los Angeles,Pharmacy,4,300,1200,1200,Pending,Yes,losangelesrep@gmail.com,1200
+952,,CUST952,Female,57,Clothing,Credit Card,San Francisco,Department Store,1,25,25,25,Pending,No,sanfranciscorep@gmail.com,25
+458,,CUST458,Female,39,Electronics,Credit Card,Los Angeles,Department Store,4,25,100,100,Completed,No,losangelesrep@gmail.com,100
+345,,CUST345,Male,62,Electronics,Credit Card,San Francisco,Pharmacy,1,30,30,30,Completed,No,sanfranciscorep@gmail.com,30
+963,,CUST963,Female,55,Beauty,Mobile Payment,San Francisco,Convenience Store,1,50,50,50,Completed,No,sanfranciscorep@gmail.com,50
+582,,CUST582,Male,35,Clothing,Debit Card,Seattle,Pharmacy,3,300,900,900,Pending,Yes,seattlerep@gmail.com,900
+706,,CUST706,Male,51,Electronics,Credit Card,Dallas,Convenience Store,4,25,100,100,Completed,No,dallasrep@gmail.com,100
+369,,CUST369,Male,23,Electronics,Credit Card,New York,Department Store,3,500,1500,1500,Completed,Yes,newyorkrep@gmail.com,1500
+747,,CUST747,Male,23,Beauty,Mobile Payment,San Francisco,Specialty Store,1,30,30,30,Completed,No,sanfranciscorep@gmail.com,30
+533,,CUST533,Male,19,Electronics,Credit Card,San Francisco,Pharmacy,3,500,1500,1500,Completed,Yes,sanfranciscorep@gmail.com,1500
+968,,CUST968,Female,48,Clothing,Credit Card,Atlanta,Supermarket,3,300,900,900,Pending,Yes,atlantarep@gmail.com,900
+645,,CUST645,Female,35,Electronics,Cash,Dallas,Convenience Store,4,30,120,120,Completed,No,dallasrep@gmail.com,120
+997,,CUST997,Male,52,Beauty,Credit Card,Dallas,Pharmacy,3,30,90,90,Completed,No,dallasrep@gmail.com,90
+169,,CUST169,Male,18,Beauty,Credit Card,Seattle,Convenience Store,3,500,1500,1500,Completed,Yes,seattlerep@gmail.com,1500
+137,,CUST137,Male,46,Beauty,Credit Card,Chicago,Department Store,2,500,1000,1000,Completed,Yes,chicagorep@gmail.com,1000
+57,,CUST057,Female,63,Beauty,Cash,Dallas,Warehouse Club,1,30,30,30,Completed,No,dallasrep@gmail.com,30
+778,,CUST778,Female,47,Beauty,Mobile Payment,Houston,Specialty Store,4,25,100,100,Completed,No,houstonrep@gmail.com,100
+599,,CUST599,Female,28,Beauty,Cash,Miami,Department Store,2,50,100,100,Completed,No,miamirep@gmail.com,100
+938,,CUST938,Male,49,Clothing,Debit Card,Miami,Warehouse Club,4,50,200,200,Pending,No,miamirep@gmail.com,200
+234,,CUST234,Female,62,Electronics,Cash,Seattle,Convenience Store,2,25,50,50,Completed,No,seattlerep@gmail.com,50
+581,,CUST581,Female,48,Beauty,Credit Card,Boston,Department Store,2,30,60,60,Completed,No,bostonrep@gmail.com,60
+410,,CUST410,Female,29,Clothing,Debit Card,Dallas,Convenience Store,2,50,100,100,Pending,No,dallasrep@gmail.com,100
+417,,CUST417,Male,43,Electronics,Cash,Houston,Department Store,3,300,900,900,Completed,Yes,houstonrep@gmail.com,900
+74,,CUST074,Female,18,Beauty,Credit Card,Miami,Supermarket,8,500,4000,4000,Completed,Yes,miamirep@gmail.com,4000
+803,,CUST803,Male,39,Clothing,Debit Card,San Francisco,Supermarket,4,25,100,100,Pending,No,sanfranciscorep@gmail.com,100
+87,,CUST087,Female,28,Beauty,Cash,Seattle,Specialty Store,2,50,100,100,Completed,No,seattlerep@gmail.com,100
+918,,CUST918,Female,42,Electronics,Debit Card,Chicago,Specialty Store,3,30,90,90,Completed,No,chicagorep@gmail.com,90
+424,,CUST424,Male,57,Beauty,Debit Card,Dallas,Convenience Store,4,300,1200,1200,Completed,Yes,dallasrep@gmail.com,1200
+641,,CUST641,Female,40,Electronics,Debit Card,San Francisco,Supermarket,1,300,300,300,Completed,No,sanfranciscorep@gmail.com,300
+95,,CUST095,Female,32,Clothing,Credit Card,Chicago,Pharmacy,2,30,60,60,Pending,No,chicagorep@gmail.com,60
+171,,CUST171,Female,52,Clothing,Mobile Payment,Dallas,Department Store,3,300,900,900,Pending,Yes,dallasrep@gmail.com,900
+1,,CUST001,Male,34,Beauty,Mobile Payment,Los Angeles,Warehouse Club,3,50,150,150,Completed,No,losangelesrep@gmail.com,150
+156,,CUST156,Female,43,Clothing,Mobile Payment,Los Angeles,Supermarket,4,25,100,100,Pending,No,losangelesrep@gmail.com,100
+493,,CUST493,Male,41,Beauty,Cash,Miami,Department Store,2,25,50,50,Completed,No,miamirep@gmail.com,50
+115,,CUST115,Male,51,Clothing,Debit Card,Los Angeles,Supermarket,3,500,1500,1500,Pending,Yes,losangelesrep@gmail.com,1500
+715,,CUST715,Female,42,Beauty,Debit Card,San Francisco,Warehouse Club,4,25,100,100,Completed,No,sanfranciscorep@gmail.com,100
+267,,CUST267,Female,32,Beauty,Mobile Payment,Houston,Department Store,3,30,90,90,Completed,No,houstonrep@gmail.com,90
+362,,CUST362,Male,50,Clothing,Mobile Payment,San Francisco,Specialty Store,1,25,25,25,Pending,No,sanfranciscorep@gmail.com,25
+856,,CUST856,Male,54,Electronics,Debit Card,San Francisco,Warehouse Club,4,30,120,120,Completed,No,sanfranciscorep@gmail.com,120
+795,,CUST795,Male,57,Electronics,Debit Card,Boston,Department Store,1,300,300,300,Completed,No,bostonrep@gmail.com,300
+84,,CUST084,Female,38,Electronics,Debit Card,Seattle,Pharmacy,3,30,90,90,Completed,No,seattlerep@gmail.com,90
+739,,CUST739,Male,36,Beauty,Mobile Payment,Los Angeles,Convenience Store,1,25,25,25,Completed,No,losangelesrep@gmail.com,25
+24,,CUST024,Female,49,Clothing,Cash,San Francisco,Department Store,1,300,300,300,Pending,No,sanfranciscorep@gmail.com,300
+215,,CUST215,Male,58,Clothing,Mobile Payment,Seattle,Warehouse Club,3,500,1500,1500,Pending,Yes,seattlerep@gmail.com,1500
+741,,CUST741,Male,48,Clothing,Mobile Payment,Miami,Convenience Store,1,300,300,300,Pending,No,miamirep@gmail.com,300
+289,,CUST289,Male,53,Electronics,Credit Card,New York,Convenience Store,2,30,60,60,Completed,No,newyorkrep@gmail.com,60
+810,,CUST810,Male,59,Electronics,Cash,New York,Pharmacy,4,25,100,100,Completed,No,newyorkrep@gmail.com,100
+389,2023-01-12,CUST389,Male,21,Clothing,Cash,Houston,Convenience Store,2,25,50,50,Pending,No,houstonrep@gmail.com,50
+266,2023-01-12,CUST266,Female,19,Electronics,Credit Card,Seattle,Department Store,2,30,60,60,Completed,No,seattlerep@gmail.com,60
+566,2023-02-12,CUST566,Female,64,Clothing,Cash,Houston,Convenience Store,1,30,30,30,Pending,No,houstonrep@gmail.com,30
+112,2023-02-12,CUST112,Male,37,Clothing,Cash,Miami,Specialty Store,3,500,1500,1500,Pending,Yes,miamirep@gmail.com,1500
+608,2023-02-12,CUST608,Female,55,Electronics,Mobile Payment,New York,Supermarket,3,500,1500,1500,Completed,Yes,newyorkrep@gmail.com,1500
+348,2023-03-12,CUST348,Female,35,Electronics,Mobile Payment,Atlanta,Department Store,2,300,600,600,Completed,Yes,atlantarep@gmail.com,600
+485,2023-04-12,CUST485,Male,24,Electronics,Mobile Payment,Atlanta,Department Store,1,30,30,30,Completed,No,atlantarep@gmail.com,30
+199,2023-04-12,CUST199,Male,45,Beauty,Debit Card,Chicago,Supermarket,3,500,1500,1500,Completed,Yes,chicagorep@gmail.com,1500
+258,2023-04-12,CUST258,Female,37,Clothing,Mobile Payment,Dallas,Warehouse Club,1,50,50,50,Pending,No,dallasrep@gmail.com,50
+576,2023-04-12,CUST576,Female,33,Beauty,Mobile Payment,Los Angeles,Supermarket,3,50,150,150,Completed,No,losangelesrep@gmail.com,150
+791,2023-05-12,CUST791,Female,51,Beauty,Credit Card,Atlanta,Pharmacy,1,25,25,25,Completed,No,atlantarep@gmail.com,25
+999,2023-05-12,CUST999,Female,36,Electronics,Debit Card,Boston,Warehouse Club,3,50,150,150,Completed,No,bostonrep@gmail.com,150
+311,2023-05-12,CUST311,Female,32,Beauty,Credit Card,Dallas,Department Store,4,25,100,100,Completed,No,dallasrep@gmail.com,100
+971,2023-05-12,CUST971,Female,27,Electronics,Mobile Payment,Los Angeles,Pharmacy,4,50,200,200,Completed,No,losangelesrep@gmail.com,200
+65,2023-05-12,CUST065,Male,51,Electronics,Cash,San Francisco,Department Store,4,500,2000,2000,Completed,Yes,sanfranciscorep@gmail.com,2000
+395,2023-06-12,CUST395,Male,50,Electronics,Cash,Boston,Supermarket,2,500,1000,1000,Completed,Yes,bostonrep@gmail.com,1000
+535,2023-06-12,CUST535,Male,47,Beauty,Mobile Payment,Boston,Pharmacy,3,30,90,90,Completed,No,bostonrep@gmail.com,90
+712,2023-06-12,CUST712,Female,57,Beauty,Debit Card,Dallas,Department Store,2,25,50,50,Completed,No,dallasrep@gmail.com,50
+580,2023-06-12,CUST580,Female,31,Clothing,Credit Card,San Francisco,Supermarket,3,500,1500,1500,Pending,Yes,sanfranciscorep@gmail.com,1500
+868,2023-06-12,CUST868,Female,25,Electronics,Debit Card,San Francisco,Specialty Store,1,300,300,300,Completed,No,sanfranciscorep@gmail.com,300
+531,2023-07-12,CUST531,Male,31,Electronics,Debit Card,Dallas,Convenience Store,1,500,500,500,Completed,No,dallasrep@gmail.com,500
+550,2023-07-12,CUST550,Male,40,Clothing,Debit Card,San Francisco,Pharmacy,3,300,900,900,Pending,Yes,sanfranciscorep@gmail.com,900
+453,2023-08-12,CUST453,Female,26,Clothing,Credit Card,Atlanta,Pharmacy,2,500,1000,1000,Pending,Yes,atlantarep@gmail.com,1000
+540,2023-08-12,CUST540,Female,46,Electronics,Cash,Miami,Convenience Store,3,300,900,900,Completed,Yes,miamirep@gmail.com,900
+392,2023-08-12,CUST392,Male,27,Clothing,Debit Card,San Francisco,Department Store,2,300,600,600,Pending,Yes,sanfranciscorep@gmail.com,600
+625,2023-08-12,CUST625,Male,31,Clothing,Debit Card,San Francisco,Warehouse Club,1,300,300,300,Pending,No,sanfranciscorep@gmail.com,300
+355,2023-09-12,CUST355,Female,55,Electronics,Credit Card,Boston,Department Store,1,500,500,500,Completed,No,bostonrep@gmail.com,500
+752,2023-09-12,CUST752,Male,29,Clothing,Cash,Chicago,Supermarket,2,50,100,100,Pending,No,chicagorep@gmail.com,100
+828,2023-09-12,CUST828,Female,33,Electronics,Credit Card,Chicago,Pharmacy,4,300,1200,1200,Completed,Yes,chicagorep@gmail.com,1200
+244,2023-09-12,CUST244,Male,28,Beauty,Mobile Payment,Dallas,Department Store,2,50,100,100,Completed,No,dallasrep@gmail.com,100
+700,2023-09-12,CUST700,Male,36,Electronics,Cash,Houston,Specialty Store,4,500,2000,2000,Completed,Yes,houstonrep@gmail.com,2000
+468,2023-09-12,CUST468,Male,40,Electronics,Cash,Los Angeles,Pharmacy,1,25,25,25,Completed,No,losangelesrep@gmail.com,25
+526,2023-10-12,CUST526,Male,33,Clothing,Cash,Boston,Specialty Store,2,50,100,100,Pending,No,bostonrep@gmail.com,100
+361,2023-10-12,CUST361,Female,34,Electronics,Cash,Chicago,Department Store,4,300,1200,1200,Completed,Yes,chicagorep@gmail.com,1200
+80,2023-10-12,CUST080,Female,64,Clothing,Cash,Los Angeles,Department Store,2,30,60,60,Pending,No,losangelesrep@gmail.com,60
+214,2023-10-12,CUST214,Male,20,Beauty,Credit Card,Miami,Convenience Store,2,30,60,60,Completed,No,miamirep@gmail.com,60
+586,2023-11-12,CUST586,Male,50,Electronics,Mobile Payment,Boston,Supermarket,1,50,50,50,Completed,No,bostonrep@gmail.com,50
+265,2023-11-12,CUST265,Male,55,Clothing,Mobile Payment,New York,Supermarket,3,300,900,900,Pending,Yes,newyorkrep@gmail.com,900
+336,2023-12-12,CUST336,Female,52,Beauty,Debit Card,Boston,Pharmacy,3,50,150,150,Completed,No,bostonrep@gmail.com,150
+571,2023-12-12,CUST571,Female,41,Electronics,Mobile Payment,Seattle,Department Store,1,50,50,50,Completed,No,seattlerep@gmail.com,50
+9,,CUST009,Male,63,Electronics,Mobile Payment,Los Angeles,Warehouse Club,2,300,600,600,Completed,Yes,losangelesrep@gmail.com,600
+552,,CUST552,Female,49,Electronics,Credit Card,Miami,Pharmacy,3,25,75,75,Completed,No,miamirep@gmail.com,75
+771,,CUST771,Male,24,Electronics,Cash,New York,Pharmacy,2,25,50,50,Completed,No,newyorkrep@gmail.com,50
+701,,CUST701,Female,52,Beauty,Cash,Chicago,Supermarket,2,30,60,60,Completed,No,chicagorep@gmail.com,60
+496,,CUST496,Male,23,Clothing,Cash,San Francisco,Specialty Store,2,300,600,600,Pending,Yes,sanfranciscorep@gmail.com,600
+139,,CUST139,Male,36,Beauty,Mobile Payment,Dallas,Warehouse Club,4,500,2000,2000,Completed,Yes,dallasrep@gmail.com,2000
+151,,CUST151,Male,29,Clothing,Debit Card,Seattle,Specialty Store,1,50,50,50,Pending,No,seattlerep@gmail.com,50
+451,,CUST451,Female,45,Electronics,Cash,Dallas,Supermarket,1,30,30,30,Completed,No,dallasrep@gmail.com,30
+153,,CUST153,Male,63,Electronics,Credit Card,Los Angeles,Supermarket,2,500,1000,1000,Completed,Yes,losangelesrep@gmail.com,1000
+83,,CUST083,Male,54,Electronics,Debit Card,New York,Specialty Store,2,50,100,100,Completed,No,newyorkrep@gmail.com,100
+99,,CUST099,Female,50,Electronics,Mobile Payment,Miami,Specialty Store,4,300,1200,1200,Completed,Yes,miamirep@gmail.com,1200
+783,,CUST783,Female,56,Clothing,Debit Card,Seattle,Warehouse Club,1,300,300,300,Pending,No,seattlerep@gmail.com,300
+994,,CUST994,Female,51,Beauty,Cash,Atlanta,Department Store,2,500,1000,1000,Completed,Yes,atlantarep@gmail.com,1000
+409,,CUST409,Female,21,Electronics,Debit Card,Chicago,Warehouse Club,3,300,900,900,Completed,Yes,chicagorep@gmail.com,900
+939,,CUST939,Female,46,Electronics,Cash,Houston,Convenience Store,1,300,300,300,Completed,No,houstonrep@gmail.com,300
+525,,CUST525,Female,47,Beauty,Mobile Payment,Los Angeles,Supermarket,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+96,,CUST096,Female,44,Clothing,Mobile Payment,Chicago,Convenience Store,2,300,600,600,Pending,Yes,chicagorep@gmail.com,600
+609,,CUST609,Female,47,Clothing,Mobile Payment,Los Angeles,Pharmacy,2,50,100,100,Pending,No,losangelesrep@gmail.com,100
+982,,CUST982,Female,46,Beauty,Mobile Payment,Los Angeles,Specialty Store,3,30,90,90,Completed,No,losangelesrep@gmail.com,90
+854,,CUST854,Male,29,Clothing,Mobile Payment,Atlanta,Supermarket,1,50,50,50,Pending,No,atlantarep@gmail.com,50
+435,,CUST435,Female,30,Beauty,Cash,Boston,Pharmacy,3,300,900,900,Completed,Yes,bostonrep@gmail.com,900
+209,,CUST209,Female,30,Electronics,Cash,Chicago,Warehouse Club,4,50,200,200,Completed,No,chicagorep@gmail.com,200
+890,,CUST890,Male,34,Electronics,Credit Card,Dallas,Specialty Store,2,25,50,50,Completed,No,dallasrep@gmail.com,50
+777,,CUST777,Male,48,Electronics,Debit Card,New York,Department Store,3,50,150,150,Completed,No,newyorkrep@gmail.com,150
+865,,CUST865,Female,42,Clothing,Debit Card,Los Angeles,Department Store,1,300,300,300,Pending,No,losangelesrep@gmail.com,300
+662,,CUST662,Male,48,Beauty,Credit Card,Miami,Supermarket,2,500,1000,1000,Completed,Yes,miamirep@gmail.com,1000
+544,,CUST544,Female,27,Electronics,Mobile Payment,Atlanta,Convenience Store,1,25,25,25,Completed,No,atlantarep@gmail.com,25
+781,,CUST781,Male,35,Beauty,Debit Card,Atlanta,Convenience Store,1,500,500,500,Completed,No,atlantarep@gmail.com,500
+678,,CUST678,Female,60,Electronics,Mobile Payment,Boston,Supermarket,3,300,900,900,Completed,Yes,bostonrep@gmail.com,900
+602,,CUST602,Female,20,Electronics,Debit Card,Dallas,Pharmacy,1,300,300,300,Completed,No,dallasrep@gmail.com,300
+615,,CUST615,Female,61,Clothing,Debit Card,Houston,Convenience Store,4,25,100,100,Pending,No,houstonrep@gmail.com,100
+309,,CUST309,Female,26,Beauty,Cash,Los Angeles,Supermarket,1,25,25,25,Completed,No,losangelesrep@gmail.com,25
+34,,CUST034,Female,51,Clothing,Credit Card,Chicago,Specialty Store,3,50,150,150,Pending,No,chicagorep@gmail.com,150
+916,,CUST916,Female,32,Electronics,Cash,New York,Supermarket,1,50,50,50,Completed,No,newyorkrep@gmail.com,50
+757,,CUST757,Female,43,Electronics,Cash,Seattle,Specialty Store,4,300,1200,1200,Completed,Yes,seattlerep@gmail.com,1200
+25,,CUST025,Female,64,Beauty,Debit Card,Dallas,Pharmacy,1,50,50,50,Completed,No,dallasrep@gmail.com,50
+472,,CUST472,Female,38,Beauty,Debit Card,Dallas,Specialty Store,3,300,900,900,Completed,Yes,dallasrep@gmail.com,900
+842,,CUST842,Female,47,Clothing,Credit Card,Houston,Warehouse Club,2,300,600,600,Pending,Yes,houstonrep@gmail.com,600
+879,,CUST879,Male,23,Clothing,Mobile Payment,Los Angeles,Warehouse Club,1,30,30,30,Pending,No,losangelesrep@gmail.com,30
+82,,CUST082,Female,32,Beauty,Credit Card,New York,Warehouse Club,4,50,200,200,Completed,No,newyorkrep@gmail.com,200
+991,,CUST991,Female,34,Clothing,Debit Card,San Francisco,Department Store,2,50,100,100,Pending,No,sanfranciscorep@gmail.com,100
+62,,CUST062,Male,18,Beauty,Credit Card,Boston,Department Store,2,50,100,100,Completed,No,bostonrep@gmail.com,100
+386,,CUST386,Female,54,Electronics,Cash,Boston,Warehouse Club,2,300,600,600,Completed,Yes,bostonrep@gmail.com,600
+989,,CUST989,Female,44,Electronics,Debit Card,Chicago,Supermarket,1,25,25,25,Completed,No,chicagorep@gmail.com,25
+664,,CUST664,Female,44,Clothing,Mobile Payment,Dallas,Convenience Store,4,500,2000,2000,Pending,Yes,dallasrep@gmail.com,2000
+429,,CUST429,Male,64,Electronics,Cash,Los Angeles,Specialty Store,2,25,50,50,Completed,No,losangelesrep@gmail.com,50
+520,,CUST520,Female,49,Electronics,Credit Card,Dallas,Warehouse Club,4,25,100,100,Completed,No,dallasrep@gmail.com,100
+233,,CUST233,Female,51,Beauty,Debit Card,San Francisco,Convenience Store,2,300,600,600,Completed,Yes,sanfranciscorep@gmail.com,600
+805,,CUST805,Female,30,Beauty,Debit Card,Seattle,Specialty Store,3,500,1500,1500,Completed,Yes,seattlerep@gmail.com,1500
+908,,CUST908,Male,46,Beauty,Mobile Payment,Seattle,Department Store,4,300,1200,1200,Completed,Yes,seattlerep@gmail.com,1200
+857,,CUST857,Male,60,Electronics,Debit Card,Miami,Warehouse Club,2,25,50,50,Completed,No,miamirep@gmail.com,50
+650,2024-01-01,CUST650,Male,55,Electronics,Credit Card,Chicago,Pharmacy,1,30,30,30,Completed,No,chicagorep@gmail.com,30
+211,2024-01-01,CUST211,Male,42,Beauty,Credit Card,Miami,Convenience Store,3,500,1500,1500,Completed,Yes,miamirep@gmail.com,1500
