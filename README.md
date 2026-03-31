@@ -233,11 +233,7 @@ pip install -r requirements.txt
 * Dashboard creation (Power BI / Tableau)
 * Real-time analytics integration
 
----
 
-## 👨‍💻 Author
-
-Ravindra Nath rinku
 
 ---
 
